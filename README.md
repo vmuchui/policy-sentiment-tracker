@@ -1,7 +1,4 @@
-
----
-
-```markdown
+```
 # 📰 Policy Sentiment Tracker 🇰🇪
 
 A Python-based tool for **scraping Kenyan news headlines**, **extracting trending keywords**, and performing **sentiment analysis** to track public sentiment on current events and policy matters.
@@ -140,7 +137,7 @@ pip install -r requirements.txt
 
 ## 🧠 Author
 
-**Edgar Deven** – [GitHub](https://github.com/your-username)
+**Edgar Deven** – [GitHub](https://github.com/EDGARDEVEN)
 
 Feel free to fork, modify, or contribute!
 
@@ -151,4 +148,4 @@ Feel free to fork, modify, or contribute!
 This project is licensed under the [MIT License](LICENSE).
 
 ```
----
+
