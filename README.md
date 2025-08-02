@@ -151,8 +151,4 @@ Feel free to fork, modify, or contribute!
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-
 ---
-
-Would you also like me to generate the `requirements.txt` file or a sample license (MIT)?
-```
