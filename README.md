@@ -1,4 +1,4 @@
-```
+
 # 📰 Policy Sentiment Tracker 🇰🇪
 
 A Python-based tool for **scraping Kenyan news headlines**, **extracting trending keywords**, and performing **sentiment analysis** to track public sentiment on current events and policy matters.
@@ -18,29 +18,25 @@ A Python-based tool for **scraping Kenyan news headlines**, **extracting trendin
 ## 📸 Example Output
 
 ```
-
 📰 Latest Headlines:
-
 1. Ruto’s deal with Hambee Starts: Sh600mn for CHAN title, reward for every match won
 2. Kindiki calls for urgent action by KWS after hyenas mauled 14-year-old boy
-   ...
+...
 
 🔍 Extracted Trending Keywords:
-
 1. wakulima wa miwa kutimiza masharti magumu ya mikopo
 2. sababu za natembeya na wamalwa kukoseshana usingizi
-   ...
+...
 
 🧠 Sentiment Analysis:
-
-* (Positive, Score=0.8126) Ruto’s deal with Hambee Starts...
-* (Negative, Score=-0.6486) Police arrest notorious Kwale gang...
-  ...
+- (Positive, Score=0.8126) Ruto’s deal with Hambee Starts...
+- (Negative, Score=-0.6486) Police arrest notorious Kwale gang...
+...
 
 📊 Dashboard:
-\[A pie chart showing % distribution of Positive, Negative, and Neutral sentiments]
-
-````
+[A pie chart showing % distribution of Positive, Negative, and Neutral sentiments]
+(Figure1.png)
+```
 
 ---
 
@@ -49,9 +45,9 @@ A Python-based tool for **scraping Kenyan news headlines**, **extracting trendin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/policy-sentiment-tracker.git
+git clone https://github.com/EDGARDEVEN/policy-sentiment-tracker.git
 cd policy-sentiment-tracker
-````
+```
 
 ### 2. Create a virtual environment (recommended)
 
@@ -75,12 +71,11 @@ python main.py
 ```
 
 The script will:
-
-* Fetch the latest headlines
-* Extract keywords
-* Analyze sentiment
-* Display the sentiment dashboard
-* Save the results to `output/sentiment_results_<date>.csv`
+- Fetch the latest headlines
+- Extract keywords
+- Analyze sentiment
+- Display the sentiment dashboard
+- Save the results to `output/sentiment_results_<date>.csv`
 
 ---
 
@@ -113,10 +108,10 @@ policy-sentiment-tracker/
 
 ## 📌 Dependencies
 
-* `feedparser`
-* `nltk`
-* `matplotlib`
-* `pandas`
+- `feedparser`
+- `nltk`
+- `matplotlib`
+- `pandas`
 
 You can install them via:
 
@@ -128,10 +123,10 @@ pip install -r requirements.txt
 
 ## 📅 Future Enhancements
 
-* Integrate Twitter/X for public opinion on policy matters
-* Deploy as a live dashboard using Streamlit or Flask
-* Auto-schedule daily analysis using cron or Task Scheduler
-* Add notification/email support
+- Integrate Twitter/X for public opinion on policy matters
+- Deploy as a live dashboard using Streamlit or Flask
+- Auto-schedule daily analysis using cron or Task Scheduler
+- Add notification/email support
 
 ---
 
@@ -146,6 +141,3 @@ Feel free to fork, modify, or contribute!
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
