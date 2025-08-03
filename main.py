@@ -32,3 +32,14 @@ if __name__ == "__main__":
 
     # Export to CSV
     save_analysis_to_csv(results)
+
+import json
+
+output_data = {
+    "headlines": headlines,
+    "keywords": keywords,
+    "sentiments": results
+}
+
+with open("frontdash/public/results.json", "w", encoding="utf-8") as f:
+    json.dump(output_data, f, ensure_ascii=False, indent=2)
