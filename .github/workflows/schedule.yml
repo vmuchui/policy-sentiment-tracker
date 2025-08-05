@@ -21,13 +21,10 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    - name: Download required NLTK data
+    - name: Download NLTK data
       run: |
         python -m nltk.downloader punkt stopwords
-        mkdir -p /home/runner/nltk_data/tokenizers
-        cp -r ~/.local/share/nltk_data/tokenizers/punkt /home/runner/nltk_data/tokenizers/
         echo "NLTK_DATA=/home/runner/nltk_data" >> $GITHUB_ENV
-
 
     - name: Run sentiment pipeline
       run: python main.py
