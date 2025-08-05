@@ -2,7 +2,7 @@ name: Run Sentiment Pipeline and Commit Results
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Every 6 hours UTC
+    - cron: '0 */3 * * *'  # Every 3 hours UTC
   workflow_dispatch:
 
 jobs:
@@ -20,6 +20,10 @@ jobs:
 
     - name: Install dependencies
       run: pip install -r requirements.txt
+
+    - name: Download NLTK data
+      run: |
+        python -m nltk.downloader punkt stopwords
 
     - name: Run sentiment pipeline
       run: python main.py
