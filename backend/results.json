@@ -1,5 +1,6 @@
 {
   "headlines": [
+    "Ditch wooden canoes for safer fibreglass boats, Lake Victoria fishermen told",
     "Bribe demands nearly half as frequent in Makueni compared to Kwale: EACC",
     "The global health system can build back better after US aid cuts – here’s how",
     "What the UN plastic treaty means to a garbage collector in Kisii amid global push to end pollution",
@@ -9,7 +10,7 @@
     "High Court rejects Paradigm Initiative’s bid to join Data Protection Case as Friend of the Court",
     "National Research Fund roots for technology in addressing food security",
     "Beyond the baby showers: The untold stories of infertility in Kenya",
-    "Kindiki Assures Mama Mboga of Govt Support Through Modern Markets and Grants",
+    "Quickmart yaomba msamaha, yachunguza madai ya mteja kudhulumiwa",
     "DStv kufukuzwa Ghana isipopunguza ada ya huduma",
     "Hali si hali kwa Isak klabuni Newcastle uhamisho ukigongwa na visiki",
     "Mkulima wa avokado anavyokabili wadudu kupitia mtego wa sola",
@@ -18,22 +19,26 @@
     "Makanisa yaunga mkono serikali kudhibiti pombe ‘ili kuokoa kizazi cha sasa’",
     "Asencio hatarini kutupwa gerezani miezi 30, kisa kanda za ngono!",
     "Ruto sasa amtegemea Kiunjuri kumrejeshea kura za Mlima Kenya",
-    "Sifuna anaweza kupokonywa ukatibu wa ODM Oktoba, duru zasema",
-    "Kigame adai kutafutwa na KRA siku mbili baada ya kushtaki wakuu wa usalama kwa mauaji"
+    "Sifuna anaweza kupokonywa ukatibu wa ODM Oktoba, duru zasema"
   ],
   "keywords": [
-    "kigame adai kutafutwa na kra siku mbili baada ya kushtaki wakuu wa usalama kwa mauaji",
-    "makanisa yaunga mkono serikali kudhibiti pombe ‘ ili kuokoa kizazi cha sasa ’.",
-    "hali si hali kwa isak klabuni newcastle uhamisho ukigongwa na visiki",
-    "mikakati ya kmc kuhakikisha wakenya wanapata nyama bora na salama",
-    "jinsi vuguvugu la vijana kenya moja linaweza kuharibia hesabu ruto",
-    "mkulima wa avokado anavyokabili wadudu kupitia mtego wa sola",
-    "ruto sasa amtegemea kiunjuri kumrejeshea kura za mlima kenya",
-    "dstv kufukuzwa ghana isipopunguza ada ya huduma",
-    "sifuna anaweza kupokonywa ukatibu wa odm oktoba",
-    "choices .. party politics taking shape"
+    "yachunguza madai ya mteja kudhulumiwa dstv kufukuzwa ghana isipopunguza ada ya huduma hali si hali kwa isak klabuni newcastle uhamisho ukigongwa na visiki mkulima wa avokado anavyokabili wadudu kupitia mtego wa sola jinsi vuguvugu la vijana kenya moja linaweza kuharibia hesabu ruto",
+    "raila na gachagua mikakati ya kmc kuhakikisha wakenya wanapata nyama bora na salama makanisa yaunga mkono serikali kudhibiti pombe ‘ ili kuokoa kizazi cha sasa ’ asencio hatarini kutupwa gerezani miezi 30",
+    "ruto sasa amtegemea kiunjuri kumrejeshea kura za mlima kenya sifuna anaweza kupokonywa ukatibu wa odm oktoba",
+    "lake victoria fishermen told bribe demands nearly half",
+    "half high court rejects paradigm initiative ’",
+    "2027 elections kws tops bribery list",
+    "kenya quickmart yaomba msamaha",
+    "court national research fund roots",
+    "defend girls ’ health",
+    "kisa kanda za ngono"
   ],
   "sentiments": [
+    {
+      "headline": "Ditch wooden canoes for safer fibreglass boats, Lake Victoria fishermen told",
+      "sentiment": "Positive",
+      "score": 0.4215
+    },
     {
       "headline": "Bribe demands nearly half as frequent in Makueni compared to Kwale: EACC",
       "sentiment": "Negative",
@@ -80,9 +85,9 @@
       "score": 0.0
     },
     {
-      "headline": "Kindiki Assures Mama Mboga of Govt Support Through Modern Markets and Grants",
-      "sentiment": "Positive",
-      "score": 0.7096
+      "headline": "Quickmart yaomba msamaha, yachunguza madai ya mteja kudhulumiwa",
+      "sentiment": "Neutral",
+      "score": 0.0
     },
     {
       "headline": "DStv kufukuzwa Ghana isipopunguza ada ya huduma",
@@ -126,11 +131,6 @@
     },
     {
       "headline": "Sifuna anaweza kupokonywa ukatibu wa ODM Oktoba, duru zasema",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Kigame adai kutafutwa na KRA siku mbili baada ya kushtaki wakuu wa usalama kwa mauaji",
       "sentiment": "Neutral",
       "score": 0.0
     }
