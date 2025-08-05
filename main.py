@@ -1,6 +1,5 @@
 import json
 import logging
-from apscheduler.schedulers.blocking import BlockingScheduler
 import os
 
 
@@ -46,17 +45,3 @@ def run_pipeline():
 
     logging.info("✅ Analysis pipeline complete and results saved.")
 
-
-if __name__ == "__main__":
-    # Run once at startup
-    run_pipeline()
-
-    # Set up recurring job every 6 hours
-    scheduler = BlockingScheduler()
-    scheduler.add_job(run_pipeline, trigger="interval", hours=1)
-
-    try:
-        logging.info("📅 Scheduler started. Will run every 1 hour.")
-        scheduler.start()
-    except (KeyboardInterrupt, SystemExit):
-        logging.info("🛑 Scheduler stopped.")
