@@ -20,7 +20,7 @@ const App: React.FC = () => {
   const [data, setData] = useState<DashboardData | null>(null);
 
   useEffect(() => {
-    fetch("/results.json")
+    fetch("http://localhost:8000/api/sentiment")
       .then((res) => res.json())
       .then((json: DashboardData) => setData(json))
       .catch((err) => console.error("Failed to fetch data:", err));

@@ -1,6 +1,7 @@
 {
   "headlines": [
     "Bribe demands nearly half as frequent in Makueni compared to Kwale: EACC",
+    "The global health system can build back better after US aid cuts – here’s how",
     "What the UN plastic treaty means to a garbage collector in Kisii amid global push to end pollution",
     "Hope Beyond the Hijab as Muslim Women Rise to Defend Girls’ Health and Choices.",
     "Party politics taking shape in Nakuru ahead of 2027 elections",
@@ -9,7 +10,6 @@
     "National Research Fund roots for technology in addressing food security",
     "Beyond the baby showers: The untold stories of infertility in Kenya",
     "Kindiki Assures Mama Mboga of Govt Support Through Modern Markets and Grants",
-    "Infant among 5 people killed in accident along the Nakuru-Nairobi highway",
     "DStv kufukuzwa Ghana isipopunguza ada ya huduma",
     "Hali si hali kwa Isak klabuni Newcastle uhamisho ukigongwa na visiki",
     "Mkulima wa avokado anavyokabili wadudu kupitia mtego wa sola",
@@ -38,6 +38,11 @@
       "headline": "Bribe demands nearly half as frequent in Makueni compared to Kwale: EACC",
       "sentiment": "Negative",
       "score": -0.2023
+    },
+    {
+      "headline": "The global health system can build back better after US aid cuts – here’s how",
+      "sentiment": "Positive",
+      "score": 0.1779
     },
     {
       "headline": "What the UN plastic treaty means to a garbage collector in Kisii amid global push to end pollution",
@@ -78,11 +83,6 @@
       "headline": "Kindiki Assures Mama Mboga of Govt Support Through Modern Markets and Grants",
       "sentiment": "Positive",
       "score": 0.7096
-    },
-    {
-      "headline": "Infant among 5 people killed in accident along the Nakuru-Nairobi highway",
-      "sentiment": "Negative",
-      "score": -0.8225
     },
     {
       "headline": "DStv kufukuzwa Ghana isipopunguza ada ya huduma",
