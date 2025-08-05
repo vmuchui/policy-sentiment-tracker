@@ -1,6 +1,8 @@
 import json
 import logging
 from apscheduler.schedulers.blocking import BlockingScheduler
+import os
+
 
 from scraper.news_headline_scraper import fetch_all_headlines
 from utils.keyword_extractor import extract_keywords_from_headlines
@@ -8,6 +10,7 @@ from analyzer.sentiment_analyzer import analyze_headlines_sentiment
 from dashboard.sentiment_dashboard import visualize_sentiment_distribution
 from utils.exporter import save_analysis_to_csv
 
+os.environ["NLTK_DATA"] = "/home/runner/nltk_data"
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
