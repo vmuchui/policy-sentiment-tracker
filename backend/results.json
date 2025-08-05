@@ -1,5 +1,6 @@
 {
   "headlines": [
+    "5 ingenious things trees do that human designers can learn from",
     "Ditch wooden canoes for safer fibreglass boats, Lake Victoria fishermen told",
     "Bribe demands nearly half as frequent in Makueni compared to Kwale: EACC",
     "The global health system can build back better after US aid cuts – here’s how",
@@ -9,31 +10,35 @@
     "KWS tops bribery list with Sh200,000 average as national mean drops by half",
     "High Court rejects Paradigm Initiative’s bid to join Data Protection Case as Friend of the Court",
     "National Research Fund roots for technology in addressing food security",
-    "Beyond the baby showers: The untold stories of infertility in Kenya",
+    "Mzee kuhukumiwa kwa kumuibia mjane pensheni ya Sh750,000",
+    "Mshukiwa aliyeshtakiwa na mbunge wa zamani, ajiwasilisha kortini",
+    "Mabroka watatu kuhukumiwa kwa ulaghai wa Sh1.6 milioni",
     "Quickmart yaomba msamaha, yachunguza madai ya mteja kudhulumiwa",
     "DStv kufukuzwa Ghana isipopunguza ada ya huduma",
     "Hali si hali kwa Isak klabuni Newcastle uhamisho ukigongwa na visiki",
     "Mkulima wa avokado anavyokabili wadudu kupitia mtego wa sola",
     "Jinsi vuguvugu la vijana Kenya Moja linaweza kuharibia hesabu Ruto, Raila na Gachagua",
     "Mikakati ya KMC kuhakikisha Wakenya wanapata nyama bora na salama",
-    "Makanisa yaunga mkono serikali kudhibiti pombe ‘ili kuokoa kizazi cha sasa’",
-    "Asencio hatarini kutupwa gerezani miezi 30, kisa kanda za ngono!",
-    "Ruto sasa amtegemea Kiunjuri kumrejeshea kura za Mlima Kenya",
-    "Sifuna anaweza kupokonywa ukatibu wa ODM Oktoba, duru zasema"
+    "Makanisa yaunga mkono serikali kudhibiti pombe ‘ili kuokoa kizazi cha sasa’"
   ],
   "keywords": [
     "yachunguza madai ya mteja kudhulumiwa dstv kufukuzwa ghana isipopunguza ada ya huduma hali si hali kwa isak klabuni newcastle uhamisho ukigongwa na visiki mkulima wa avokado anavyokabili wadudu kupitia mtego wa sola jinsi vuguvugu la vijana kenya moja linaweza kuharibia hesabu ruto",
-    "raila na gachagua mikakati ya kmc kuhakikisha wakenya wanapata nyama bora na salama makanisa yaunga mkono serikali kudhibiti pombe ‘ ili kuokoa kizazi cha sasa ’ asencio hatarini kutupwa gerezani miezi 30",
-    "ruto sasa amtegemea kiunjuri kumrejeshea kura za mlima kenya sifuna anaweza kupokonywa ukatibu wa odm oktoba",
+    "raila na gachagua mikakati ya kmc kuhakikisha wakenya wanapata nyama bora na salama makanisa yaunga mkono serikali kudhibiti pombe ‘ ili kuokoa kizazi cha sasa ’",
+    "addressing food security mzee kuhukumiwa kwa kumuibia mjane pensheni ya sh750",
+    "ajiwasilisha kortini mabroka watatu kuhukumiwa kwa ulaghai wa sh1",
+    "000 mshukiwa aliyeshtakiwa na mbunge wa zamani",
     "lake victoria fishermen told bribe demands nearly half",
     "half high court rejects paradigm initiative ’",
     "2027 elections kws tops bribery list",
-    "kenya quickmart yaomba msamaha",
     "court national research fund roots",
-    "defend girls ’ health",
-    "kisa kanda za ngono"
+    "6 milioni quickmart yaomba msamaha"
   ],
   "sentiments": [
+    {
+      "headline": "5 ingenious things trees do that human designers can learn from",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
     {
       "headline": "Ditch wooden canoes for safer fibreglass boats, Lake Victoria fishermen told",
       "sentiment": "Positive",
@@ -80,7 +85,17 @@
       "score": 0.34
     },
     {
-      "headline": "Beyond the baby showers: The untold stories of infertility in Kenya",
+      "headline": "Mzee kuhukumiwa kwa kumuibia mjane pensheni ya Sh750,000",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Mshukiwa aliyeshtakiwa na mbunge wa zamani, ajiwasilisha kortini",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Mabroka watatu kuhukumiwa kwa ulaghai wa Sh1.6 milioni",
       "sentiment": "Neutral",
       "score": 0.0
     },
@@ -116,21 +131,6 @@
     },
     {
       "headline": "Makanisa yaunga mkono serikali kudhibiti pombe ‘ili kuokoa kizazi cha sasa’",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Asencio hatarini kutupwa gerezani miezi 30, kisa kanda za ngono!",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Ruto sasa amtegemea Kiunjuri kumrejeshea kura za Mlima Kenya",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Sifuna anaweza kupokonywa ukatibu wa ODM Oktoba, duru zasema",
       "sentiment": "Neutral",
       "score": 0.0
     }
