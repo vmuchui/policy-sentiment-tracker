@@ -1,5 +1,8 @@
 {
   "headlines": [
+    "Huawei Digi-Truck Program extends its services to Nyamira",
+    "IEBC Chair Ethekon Dismisses Rigging Fears, 2027 Poll to Be Free and Fair",
+    "OPINION: When Farmers Fall Prey – Unmasking the Crisis of Counterfeit Agrochemicals in Kenya",
     "More than 100 missing after flash floods in India",
     "Ruto dismisses Hustler Fund critics following KHRC report",
     "IEBC to announce by-election calendar in a week",
@@ -7,9 +10,6 @@
     "‘Abducted’ Ugandan student jailed over anti-Museveni TikTok video",
     "Rwanda says it has agreed to take up to 250 migrants from the US",
     "CS Ruku Dismisses Rigging Claims, Says Development Will Secure Ruto Second Term",
-    "Fire razes down businesses at Kisumu bus park, city promises probe",
-    "Sh10.8bn eCitizen black hole: Governance gaps, murky deals and irregular payments",
-    "5 ingenious things trees do that human designers can learn from",
     "Masaibu yaendelea kuandama biashara za familia ya Joho",
     "Mkwanja Mrefu: Thamani ya Microsoft yagonga Sh516 trilioni, yadhihirisha nguvu za AI",
     "Aibu Rwanda ikikubali kupewa wahamiaji haramu kutoka Amerika",
@@ -24,16 +24,31 @@
   "keywords": [
     "yadhihirisha nguvu za ai aibu rwanda ikikubali kupewa wahamiaji haramu kutoka amerika weta ajitetea kuhusu kucheleweshwa kwa sheria ya kutimua wabunge wazembe ripoti yafichua mabilioni yanavyopotea kupitia e",
     "baringo na elgeyo marakwet makao makuu ya ufisadi nchini – ripoti mzee kuhukumiwa kwa kumuibia mjane pensheni ya sh750",
+    "secure ruto second term masaibu yaendelea kuandama biashara za familia ya joho mkwanja mrefu",
     "week hiroshima marks 80 years since atomic bombing ‘ abducted ’ ugandan student jailed",
     "nitaunga mkono raila kuwania urais ikiwa ataachana na ruto uasin gishu",
-    "masaibu yaendelea kuandama biashara za familia ya joho mkwanja mrefu",
     "india ruto dismisses hustler fund critics following khrc report iebc",
     "ajiwasilisha kortini mabroka watatu kuhukumiwa kwa ulaghai wa sh1",
     "000 mshukiwa aliyeshtakiwa na mbunge wa zamani",
-    "thamani ya microsoft yagonga sh516 trilioni",
-    "secure ruto second term fire razes"
+    "nyamira iebc chair ethekon dismisses rigging fears",
+    "thamani ya microsoft yagonga sh516 trilioni"
   ],
   "sentiments": [
+    {
+      "headline": "Huawei Digi-Truck Program extends its services to Nyamira",
+      "sentiment": "Positive",
+      "score": 0.128
+    },
+    {
+      "headline": "IEBC Chair Ethekon Dismisses Rigging Fears, 2027 Poll to Be Free and Fair",
+      "sentiment": "Positive",
+      "score": 0.4215
+    },
+    {
+      "headline": "OPINION: When Farmers Fall Prey – Unmasking the Crisis of Counterfeit Agrochemicals in Kenya",
+      "sentiment": "Negative",
+      "score": -0.6249
+    },
     {
       "headline": "More than 100 missing after flash floods in India",
       "sentiment": "Negative",
@@ -68,21 +83,6 @@
       "headline": "CS Ruku Dismisses Rigging Claims, Says Development Will Secure Ruto Second Term",
       "sentiment": "Positive",
       "score": 0.34
-    },
-    {
-      "headline": "Fire razes down businesses at Kisumu bus park, city promises probe",
-      "sentiment": "Negative",
-      "score": -0.5164
-    },
-    {
-      "headline": "Sh10.8bn eCitizen black hole: Governance gaps, murky deals and irregular payments",
-      "sentiment": "Negative",
-      "score": -0.538
-    },
-    {
-      "headline": "5 ingenious things trees do that human designers can learn from",
-      "sentiment": "Neutral",
-      "score": 0.0
     },
     {
       "headline": "Masaibu yaendelea kuandama biashara za familia ya Joho",
