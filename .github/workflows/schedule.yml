@@ -1,4 +1,6 @@
 name: Run Sentiment Pipeline and Commit Results
+permissions:
+  contents: write
 
 on:
   schedule:
@@ -34,9 +36,13 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Pull latest changes
+        run: git pull origin main --rebase
+
       - name: Commit and Push changes
         run: |
           git add .
           git commit -m "Update results [auto]" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          git pull origin main --rebase
+          git push origin HEAD:main
           echo "Changes pushed successfully"
