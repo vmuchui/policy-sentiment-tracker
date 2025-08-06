@@ -1,5 +1,7 @@
 {
   "headlines": [
+    "Ruto, Raila establish joint team to oversee 10-point broad-based agenda",
+    "OPINION | Senate Should Reject Misguided Bill That Blocks Smokers’ Path to Safer Alternatives",
     "‘I considered quitting as ODM SG’- Sifuna",
     "‘Avoid Thika Road unless going to CHAN’ – Traffic Police Commandant advise motorists",
     "Kisumu traders suspect street urchins behind stalls fire",
@@ -8,8 +10,7 @@
     "A legacy of service to children: CWSK pays glowing tribute to Phoebe Asiyo",
     "Ruto’s 2027 fate hangs on upcoming by-elections",
     "Young Scientists Kenya Calls for Stronger Govt-Policy Collaboration to Scale STEM Education",
-    "EACC raids offices and homes of 6 top Busia County officials in Sh1.4bn tender probe",
-    "Scramble for Siaya Governor’s acting position with DG Oduol saying he’s in charge",
+    "Ruto fast losing favoured status with the US now calling for probe",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
     "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
@@ -18,22 +19,31 @@
     "Regional blocs merge peace missions for DRC",
     "Government to disburse HELB loans and Scholarships from August 15",
     "Journalist gives five photos, video to prove who killed Rex Masai",
-    "Charlene Ruto forgives author Ochora in book row, to withdraw charges",
-    "Toxic talk: The cost of loose words in Kenya's politics"
+    "Charlene Ruto forgives author Ochora in book row, to withdraw charges"
   ],
   "keywords": [
     "chan ’ – traffic police commandant advise motorists kisumu traders suspect street urchins behind stalls fire cs ruku urges eacc",
     "odm sg ’- sifuna ‘ avoid thika road unless going",
+    "scale stem education ruto fast losing favoured status",
     "killed rex masai charlene ruto forgives author ochora",
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
-    "scale stem education eacc raids offices",
     "graft reports iebc decries legal gaps",
     "august 15 journalist gives five photos",
     "wetangula infant among five killed",
-    "6 top busia county officials"
+    "elections young scientists kenya calls"
   ],
   "sentiments": [
+    {
+      "headline": "Ruto, Raila establish joint team to oversee 10-point broad-based agenda",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "OPINION | Senate Should Reject Misguided Bill That Blocks Smokers’ Path to Safer Alternatives",
+      "sentiment": "Negative",
+      "score": -0.2023
+    },
     {
       "headline": "‘I considered quitting as ODM SG’- Sifuna",
       "sentiment": "Neutral",
@@ -75,14 +85,9 @@
       "score": 0.3818
     },
     {
-      "headline": "EACC raids offices and homes of 6 top Busia County officials in Sh1.4bn tender probe",
+      "headline": "Ruto fast losing favoured status with the US now calling for probe",
       "sentiment": "Positive",
-      "score": 0.2023
-    },
-    {
-      "headline": "Scramble for Siaya Governor’s acting position with DG Oduol saying he’s in charge",
-      "sentiment": "Neutral",
-      "score": 0.0
+      "score": 0.0516
     },
     {
       "headline": "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
@@ -128,11 +133,6 @@
       "headline": "Charlene Ruto forgives author Ochora in book row, to withdraw charges",
       "sentiment": "Positive",
       "score": 0.1531
-    },
-    {
-      "headline": "Toxic talk: The cost of loose words in Kenya's politics",
-      "sentiment": "Negative",
-      "score": -0.3182
     }
   ]
 }
