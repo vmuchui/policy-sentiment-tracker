@@ -1,17 +1,16 @@
 {
   "headlines": [
+    "‘Avoid Thika Road unless going to CHAN’ – Traffic Police Commandant advise motorists",
+    "Kisumu traders suspect street urchins behind stalls fire",
+    "CS Ruku urges EACC to Arrest Corrupt Officials Named in Graft Reports",
+    "IEBC decries legal gaps on Early Campaigns, Recalls Court Directive for New Law",
     "A legacy of service to children: CWSK pays glowing tribute to Phoebe Asiyo",
     "Ruto’s 2027 fate hangs on upcoming by-elections",
     "Young Scientists Kenya Calls for Stronger Govt-Policy Collaboration to Scale STEM Education",
     "EACC raids offices and homes of 6 top Busia County officials in Sh1.4bn tender probe",
     "Scramble for Siaya Governor’s acting position with DG Oduol saying he’s in charge",
     "US demands $15,000 deposit for visa applicants from two African countries",
-    "Huawei Digi-Truck Program extends its services to Nyamira",
-    "IEBC Chair Ethekon Dismisses Rigging Fears, 2027 Poll to Be Free and Fair",
-    "OPINION: When Farmers Fall Prey – Unmasking the Crisis of Counterfeit Agrochemicals in Kenya",
-    "More than 100 missing after flash floods in India",
     "Ruto defends China ties amid US ally status concerns",
-    "Experts: How Ruto's Hustler Fund is failing hustlers",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
     "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
     "Harambee Stars stun DR Congo to kick off CHAN debut with a win",
@@ -19,21 +18,42 @@
     "Regional blocs merge peace missions for DRC",
     "Government to disburse HELB loans and Scholarships from August 15",
     "Journalist gives five photos, video to prove who killed Rex Masai",
-    "Charlene Ruto forgives author Ochora in book row, to withdraw charges"
+    "Charlene Ruto forgives author Ochora in book row, to withdraw charges",
+    "Toxic talk: The cost of loose words in Kenya's politics"
   ],
   "keywords": [
-    "india ruto defends china ties amid us ally status concerns experts",
+    "chan ’ – traffic police commandant advise motorists kisumu traders suspect street urchins behind stalls fire cs ruku urges eacc",
+    "two african countries ruto defends china ties amid us ally status concerns senate",
     "killed rex masai charlene ruto forgives author ochora",
-    "nyamira iebc chair ethekon dismisses rigging fears",
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
     "scale stem education eacc raids offices",
+    "‘ avoid thika road unless going",
+    "graft reports iebc decries legal gaps",
     "august 15 journalist gives five photos",
-    "wetangula infant among five killed",
-    "two african countries huawei digi",
-    "farmers fall prey – unmasking"
+    "wetangula infant among five killed"
   ],
   "sentiments": [
+    {
+      "headline": "‘Avoid Thika Road unless going to CHAN’ – Traffic Police Commandant advise motorists",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Kisumu traders suspect street urchins behind stalls fire",
+      "sentiment": "Negative",
+      "score": -0.5574
+    },
+    {
+      "headline": "CS Ruku urges EACC to Arrest Corrupt Officials Named in Graft Reports",
+      "sentiment": "Negative",
+      "score": -0.34
+    },
+    {
+      "headline": "IEBC decries legal gaps on Early Campaigns, Recalls Court Directive for New Law",
+      "sentiment": "Positive",
+      "score": 0.128
+    },
     {
       "headline": "A legacy of service to children: CWSK pays glowing tribute to Phoebe Asiyo",
       "sentiment": "Neutral",
@@ -65,34 +85,9 @@
       "score": 0.0
     },
     {
-      "headline": "Huawei Digi-Truck Program extends its services to Nyamira",
-      "sentiment": "Positive",
-      "score": 0.128
-    },
-    {
-      "headline": "IEBC Chair Ethekon Dismisses Rigging Fears, 2027 Poll to Be Free and Fair",
-      "sentiment": "Positive",
-      "score": 0.4215
-    },
-    {
-      "headline": "OPINION: When Farmers Fall Prey – Unmasking the Crisis of Counterfeit Agrochemicals in Kenya",
-      "sentiment": "Negative",
-      "score": -0.6249
-    },
-    {
-      "headline": "More than 100 missing after flash floods in India",
-      "sentiment": "Negative",
-      "score": -0.3535
-    },
-    {
       "headline": "Ruto defends China ties amid US ally status concerns",
       "sentiment": "Neutral",
       "score": 0.0
-    },
-    {
-      "headline": "Experts: How Ruto's Hustler Fund is failing hustlers",
-      "sentiment": "Negative",
-      "score": -0.5106
     },
     {
       "headline": "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
@@ -133,6 +128,11 @@
       "headline": "Charlene Ruto forgives author Ochora in book row, to withdraw charges",
       "sentiment": "Positive",
       "score": 0.1531
+    },
+    {
+      "headline": "Toxic talk: The cost of loose words in Kenya's politics",
+      "sentiment": "Negative",
+      "score": -0.3182
     }
   ]
 }
