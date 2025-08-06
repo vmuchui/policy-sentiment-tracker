@@ -1,16 +1,17 @@
 {
   "headlines": [
+    "A legacy of service to children: CWSK pays glowing tribute to Phoebe Asiyo",
+    "Ruto’s 2027 fate hangs on upcoming by-elections",
+    "Young Scientists Kenya Calls for Stronger Govt-Policy Collaboration to Scale STEM Education",
+    "EACC raids offices and homes of 6 top Busia County officials in Sh1.4bn tender probe",
+    "Scramble for Siaya Governor’s acting position with DG Oduol saying he’s in charge",
     "US demands $15,000 deposit for visa applicants from two African countries",
     "Huawei Digi-Truck Program extends its services to Nyamira",
     "IEBC Chair Ethekon Dismisses Rigging Fears, 2027 Poll to Be Free and Fair",
     "OPINION: When Farmers Fall Prey – Unmasking the Crisis of Counterfeit Agrochemicals in Kenya",
     "More than 100 missing after flash floods in India",
-    "Ruto dismisses Hustler Fund critics following KHRC report",
-    "IEBC to announce by-election calendar in a week",
-    "Hiroshima marks 80 years since atomic bombing",
-    "‘Abducted’ Ugandan student jailed over anti-Museveni TikTok video",
-    "Rwanda says it has agreed to take up to 250 migrants from the US",
-    "'Naysayers and merchants of doom,' Ruto says of Hustler Fund critics",
+    "Ruto defends China ties amid US ally status concerns",
+    "Experts: How Ruto's Hustler Fund is failing hustlers",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
     "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
     "Harambee Stars stun DR Congo to kick off CHAN debut with a win",
@@ -18,22 +19,46 @@
     "Regional blocs merge peace missions for DRC",
     "Government to disburse HELB loans and Scholarships from August 15",
     "Journalist gives five photos, video to prove who killed Rex Masai",
-    "Charlene Ruto forgives author Ochora in book row, to withdraw charges",
-    "Toxic talk: The cost of loose words in Kenya's politics"
+    "Charlene Ruto forgives author Ochora in book row, to withdraw charges"
   ],
   "keywords": [
-    "week hiroshima marks 80 years since atomic bombing ‘ abducted ’ ugandan student jailed",
-    "india ruto dismisses hustler fund critics following khrc report iebc",
+    "india ruto defends china ties amid us ally status concerns experts",
     "killed rex masai charlene ruto forgives author ochora",
     "nyamira iebc chair ethekon dismisses rigging fears",
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
+    "scale stem education eacc raids offices",
     "august 15 journalist gives five photos",
     "wetangula infant among five killed",
     "two african countries huawei digi",
-    "hustler fund critics senate"
+    "farmers fall prey – unmasking"
   ],
   "sentiments": [
+    {
+      "headline": "A legacy of service to children: CWSK pays glowing tribute to Phoebe Asiyo",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Ruto’s 2027 fate hangs on upcoming by-elections",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Young Scientists Kenya Calls for Stronger Govt-Policy Collaboration to Scale STEM Education",
+      "sentiment": "Positive",
+      "score": 0.3818
+    },
+    {
+      "headline": "EACC raids offices and homes of 6 top Busia County officials in Sh1.4bn tender probe",
+      "sentiment": "Positive",
+      "score": 0.2023
+    },
+    {
+      "headline": "Scramble for Siaya Governor’s acting position with DG Oduol saying he’s in charge",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
     {
       "headline": "US demands $15,000 deposit for visa applicants from two African countries",
       "sentiment": "Neutral",
@@ -60,34 +85,14 @@
       "score": -0.3535
     },
     {
-      "headline": "Ruto dismisses Hustler Fund critics following KHRC report",
-      "sentiment": "Negative",
-      "score": -0.296
-    },
-    {
-      "headline": "IEBC to announce by-election calendar in a week",
+      "headline": "Ruto defends China ties amid US ally status concerns",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Hiroshima marks 80 years since atomic bombing",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "‘Abducted’ Ugandan student jailed over anti-Museveni TikTok video",
+      "headline": "Experts: How Ruto's Hustler Fund is failing hustlers",
       "sentiment": "Negative",
-      "score": -0.4939
-    },
-    {
-      "headline": "Rwanda says it has agreed to take up to 250 migrants from the US",
-      "sentiment": "Positive",
-      "score": 0.2732
-    },
-    {
-      "headline": "'Naysayers and merchants of doom,' Ruto says of Hustler Fund critics",
-      "sentiment": "Negative",
-      "score": -0.296
+      "score": -0.5106
     },
     {
       "headline": "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
@@ -128,11 +133,6 @@
       "headline": "Charlene Ruto forgives author Ochora in book row, to withdraw charges",
       "sentiment": "Positive",
       "score": 0.1531
-    },
-    {
-      "headline": "Toxic talk: The cost of loose words in Kenya's politics",
-      "sentiment": "Negative",
-      "score": -0.3182
     }
   ]
 }
