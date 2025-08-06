@@ -14,7 +14,7 @@ def get_rss_headlines(rss_url, source_name):
 def fetch_all_headlines():
     sources = [
         ("https://www.capitalfm.co.ke/news/feed/", "Capital FM"),
-        ("https://taifaleo.nation.co.ke/feed/", "Taifa Leo")
+        ("https://www.standardmedia.co.ke/rss/headlines.php", "Standard Media")
     ]
 
     all_headlines = []

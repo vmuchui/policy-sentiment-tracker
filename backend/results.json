@@ -1,5 +1,6 @@
 {
   "headlines": [
+    "US demands $15,000 deposit for visa applicants from two African countries",
     "Huawei Digi-Truck Program extends its services to Nyamira",
     "IEBC Chair Ethekon Dismisses Rigging Fears, 2027 Poll to Be Free and Fair",
     "OPINION: When Farmers Fall Prey – Unmasking the Crisis of Counterfeit Agrochemicals in Kenya",
@@ -9,31 +10,35 @@
     "Hiroshima marks 80 years since atomic bombing",
     "‘Abducted’ Ugandan student jailed over anti-Museveni TikTok video",
     "Rwanda says it has agreed to take up to 250 migrants from the US",
-    "CS Ruku Dismisses Rigging Claims, Says Development Will Secure Ruto Second Term",
-    "Masaibu yaendelea kuandama biashara za familia ya Joho",
-    "Mkwanja Mrefu: Thamani ya Microsoft yagonga Sh516 trilioni, yadhihirisha nguvu za AI",
-    "Aibu Rwanda ikikubali kupewa wahamiaji haramu kutoka Amerika",
-    "Weta ajitetea kuhusu kucheleweshwa kwa sheria ya kutimua wabunge wazembe",
-    "Ripoti yafichua mabilioni yanavyopotea kupitia e- Citizen",
-    "Uhuru: Nitaunga mkono Raila kuwania urais ikiwa ataachana na Ruto",
-    "Uasin Gishu, Baringo na Elgeyo Marakwet makao makuu ya ufisadi nchini – Ripoti",
-    "Mzee kuhukumiwa kwa kumuibia mjane pensheni ya Sh750,000",
-    "Mshukiwa aliyeshtakiwa na mbunge wa zamani, ajiwasilisha kortini",
-    "Mabroka watatu kuhukumiwa kwa ulaghai wa Sh1.6 milioni"
+    "'Naysayers and merchants of doom,' Ruto says of Hustler Fund critics",
+    "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
+    "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
+    "Harambee Stars stun DR Congo to kick off CHAN debut with a win",
+    "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso",
+    "Regional blocs merge peace missions for DRC",
+    "Government to disburse HELB loans and Scholarships from August 15",
+    "Journalist gives five photos, video to prove who killed Rex Masai",
+    "Charlene Ruto forgives author Ochora in book row, to withdraw charges",
+    "Toxic talk: The cost of loose words in Kenya's politics"
   ],
   "keywords": [
-    "yadhihirisha nguvu za ai aibu rwanda ikikubali kupewa wahamiaji haramu kutoka amerika weta ajitetea kuhusu kucheleweshwa kwa sheria ya kutimua wabunge wazembe ripoti yafichua mabilioni yanavyopotea kupitia e",
-    "baringo na elgeyo marakwet makao makuu ya ufisadi nchini – ripoti mzee kuhukumiwa kwa kumuibia mjane pensheni ya sh750",
-    "secure ruto second term masaibu yaendelea kuandama biashara za familia ya joho mkwanja mrefu",
     "week hiroshima marks 80 years since atomic bombing ‘ abducted ’ ugandan student jailed",
-    "nitaunga mkono raila kuwania urais ikiwa ataachana na ruto uasin gishu",
     "india ruto dismisses hustler fund critics following khrc report iebc",
-    "ajiwasilisha kortini mabroka watatu kuhukumiwa kwa ulaghai wa sh1",
-    "000 mshukiwa aliyeshtakiwa na mbunge wa zamani",
+    "killed rex masai charlene ruto forgives author ochora",
     "nyamira iebc chair ethekon dismisses rigging fears",
-    "thamani ya microsoft yagonga sh516 trilioni"
+    "eldoret highway harambee stars stun dr congo",
+    "burkina faso regional blocs merge peace missions",
+    "august 15 journalist gives five photos",
+    "wetangula infant among five killed",
+    "two african countries huawei digi",
+    "hustler fund critics senate"
   ],
   "sentiments": [
+    {
+      "headline": "US demands $15,000 deposit for visa applicants from two African countries",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
     {
       "headline": "Huawei Digi-Truck Program extends its services to Nyamira",
       "sentiment": "Positive",
@@ -80,59 +85,54 @@
       "score": 0.2732
     },
     {
-      "headline": "CS Ruku Dismisses Rigging Claims, Says Development Will Secure Ruto Second Term",
+      "headline": "'Naysayers and merchants of doom,' Ruto says of Hustler Fund critics",
+      "sentiment": "Negative",
+      "score": -0.296
+    },
+    {
+      "headline": "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
       "sentiment": "Positive",
-      "score": 0.34
+      "score": 0.25
     },
     {
-      "headline": "Masaibu yaendelea kuandama biashara za familia ya Joho",
+      "headline": "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
+      "sentiment": "Negative",
+      "score": -0.802
+    },
+    {
+      "headline": "Harambee Stars stun DR Congo to kick off CHAN debut with a win",
+      "sentiment": "Positive",
+      "score": 0.5859
+    },
+    {
+      "headline": "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Mkwanja Mrefu: Thamani ya Microsoft yagonga Sh516 trilioni, yadhihirisha nguvu za AI",
+      "headline": "Regional blocs merge peace missions for DRC",
+      "sentiment": "Positive",
+      "score": 0.5423
+    },
+    {
+      "headline": "Government to disburse HELB loans and Scholarships from August 15",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Aibu Rwanda ikikubali kupewa wahamiaji haramu kutoka Amerika",
-      "sentiment": "Neutral",
-      "score": 0.0
+      "headline": "Journalist gives five photos, video to prove who killed Rex Masai",
+      "sentiment": "Negative",
+      "score": -0.6705
     },
     {
-      "headline": "Weta ajitetea kuhusu kucheleweshwa kwa sheria ya kutimua wabunge wazembe",
-      "sentiment": "Neutral",
-      "score": 0.0
+      "headline": "Charlene Ruto forgives author Ochora in book row, to withdraw charges",
+      "sentiment": "Positive",
+      "score": 0.1531
     },
     {
-      "headline": "Ripoti yafichua mabilioni yanavyopotea kupitia e- Citizen",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Uhuru: Nitaunga mkono Raila kuwania urais ikiwa ataachana na Ruto",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Uasin Gishu, Baringo na Elgeyo Marakwet makao makuu ya ufisadi nchini – Ripoti",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Mzee kuhukumiwa kwa kumuibia mjane pensheni ya Sh750,000",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Mshukiwa aliyeshtakiwa na mbunge wa zamani, ajiwasilisha kortini",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Mabroka watatu kuhukumiwa kwa ulaghai wa Sh1.6 milioni",
-      "sentiment": "Neutral",
-      "score": 0.0
+      "headline": "Toxic talk: The cost of loose words in Kenya's politics",
+      "sentiment": "Negative",
+      "score": -0.3182
     }
   ]
 }
