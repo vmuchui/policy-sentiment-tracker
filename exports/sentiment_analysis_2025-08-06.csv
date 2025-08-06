@@ -1,4 +1,5 @@
 Headline,Sentiment,Score
+‘I considered quitting as ODM SG’- Sifuna,Neutral,0.0
 ‘Avoid Thika Road unless going to CHAN’ – Traffic Police Commandant advise motorists,Neutral,0.0
 Kisumu traders suspect street urchins behind stalls fire,Negative,-0.5574
 CS Ruku urges EACC to Arrest Corrupt Officials Named in Graft Reports,Negative,-0.34
@@ -8,8 +9,7 @@ Ruto’s 2027 fate hangs on upcoming by-elections,Neutral,0.0
 Young Scientists Kenya Calls for Stronger Govt-Policy Collaboration to Scale STEM Education,Positive,0.3818
 EACC raids offices and homes of 6 top Busia County officials in Sh1.4bn tender probe,Positive,0.2023
 Scramble for Siaya Governor’s acting position with DG Oduol saying he’s in charge,Neutral,0.0
-"US demands $15,000 deposit for visa applicants from two African countries",Neutral,0.0
-Ruto defends China ties amid US ally status concerns,Neutral,0.0
+"Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",Neutral,0.0
 "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",Positive,0.25
 Infant among five killed in grisly crash on Nakuru-Eldoret Highway,Negative,-0.802
 Harambee Stars stun DR Congo to kick off CHAN debut with a win,Positive,0.5859
