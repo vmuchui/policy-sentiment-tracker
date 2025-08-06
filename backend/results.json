@@ -1,88 +1,123 @@
 {
   "headlines": [
+    "More than 100 missing after flash floods in India",
+    "Ruto dismisses Hustler Fund critics following KHRC report",
+    "IEBC to announce by-election calendar in a week",
+    "Hiroshima marks 80 years since atomic bombing",
+    "‘Abducted’ Ugandan student jailed over anti-Museveni TikTok video",
+    "Rwanda says it has agreed to take up to 250 migrants from the US",
+    "CS Ruku Dismisses Rigging Claims, Says Development Will Secure Ruto Second Term",
+    "Fire razes down businesses at Kisumu bus park, city promises probe",
+    "Sh10.8bn eCitizen black hole: Governance gaps, murky deals and irregular payments",
     "5 ingenious things trees do that human designers can learn from",
-    "Ditch wooden canoes for safer fibreglass boats, Lake Victoria fishermen told",
-    "Bribe demands nearly half as frequent in Makueni compared to Kwale: EACC",
-    "The global health system can build back better after US aid cuts – here’s how",
-    "What the UN plastic treaty means to a garbage collector in Kisii amid global push to end pollution",
-    "Hope Beyond the Hijab as Muslim Women Rise to Defend Girls’ Health and Choices.",
-    "Party politics taking shape in Nakuru ahead of 2027 elections",
-    "KWS tops bribery list with Sh200,000 average as national mean drops by half",
-    "High Court rejects Paradigm Initiative’s bid to join Data Protection Case as Friend of the Court",
-    "National Research Fund roots for technology in addressing food security",
+    "Masaibu yaendelea kuandama biashara za familia ya Joho",
+    "Mkwanja Mrefu: Thamani ya Microsoft yagonga Sh516 trilioni, yadhihirisha nguvu za AI",
+    "Aibu Rwanda ikikubali kupewa wahamiaji haramu kutoka Amerika",
+    "Weta ajitetea kuhusu kucheleweshwa kwa sheria ya kutimua wabunge wazembe",
+    "Ripoti yafichua mabilioni yanavyopotea kupitia e- Citizen",
+    "Uhuru: Nitaunga mkono Raila kuwania urais ikiwa ataachana na Ruto",
+    "Uasin Gishu, Baringo na Elgeyo Marakwet makao makuu ya ufisadi nchini – Ripoti",
     "Mzee kuhukumiwa kwa kumuibia mjane pensheni ya Sh750,000",
     "Mshukiwa aliyeshtakiwa na mbunge wa zamani, ajiwasilisha kortini",
-    "Mabroka watatu kuhukumiwa kwa ulaghai wa Sh1.6 milioni",
-    "Quickmart yaomba msamaha, yachunguza madai ya mteja kudhulumiwa",
-    "DStv kufukuzwa Ghana isipopunguza ada ya huduma",
-    "Hali si hali kwa Isak klabuni Newcastle uhamisho ukigongwa na visiki",
-    "Mkulima wa avokado anavyokabili wadudu kupitia mtego wa sola",
-    "Jinsi vuguvugu la vijana Kenya Moja linaweza kuharibia hesabu Ruto, Raila na Gachagua",
-    "Mikakati ya KMC kuhakikisha Wakenya wanapata nyama bora na salama",
-    "Makanisa yaunga mkono serikali kudhibiti pombe ‘ili kuokoa kizazi cha sasa’"
+    "Mabroka watatu kuhukumiwa kwa ulaghai wa Sh1.6 milioni"
   ],
   "keywords": [
-    "yachunguza madai ya mteja kudhulumiwa dstv kufukuzwa ghana isipopunguza ada ya huduma hali si hali kwa isak klabuni newcastle uhamisho ukigongwa na visiki mkulima wa avokado anavyokabili wadudu kupitia mtego wa sola jinsi vuguvugu la vijana kenya moja linaweza kuharibia hesabu ruto",
-    "raila na gachagua mikakati ya kmc kuhakikisha wakenya wanapata nyama bora na salama makanisa yaunga mkono serikali kudhibiti pombe ‘ ili kuokoa kizazi cha sasa ’",
-    "addressing food security mzee kuhukumiwa kwa kumuibia mjane pensheni ya sh750",
+    "yadhihirisha nguvu za ai aibu rwanda ikikubali kupewa wahamiaji haramu kutoka amerika weta ajitetea kuhusu kucheleweshwa kwa sheria ya kutimua wabunge wazembe ripoti yafichua mabilioni yanavyopotea kupitia e",
+    "baringo na elgeyo marakwet makao makuu ya ufisadi nchini – ripoti mzee kuhukumiwa kwa kumuibia mjane pensheni ya sh750",
+    "week hiroshima marks 80 years since atomic bombing ‘ abducted ’ ugandan student jailed",
+    "nitaunga mkono raila kuwania urais ikiwa ataachana na ruto uasin gishu",
+    "masaibu yaendelea kuandama biashara za familia ya joho mkwanja mrefu",
+    "india ruto dismisses hustler fund critics following khrc report iebc",
     "ajiwasilisha kortini mabroka watatu kuhukumiwa kwa ulaghai wa sh1",
     "000 mshukiwa aliyeshtakiwa na mbunge wa zamani",
-    "lake victoria fishermen told bribe demands nearly half",
-    "half high court rejects paradigm initiative ’",
-    "2027 elections kws tops bribery list",
-    "court national research fund roots",
-    "6 milioni quickmart yaomba msamaha"
+    "thamani ya microsoft yagonga sh516 trilioni",
+    "secure ruto second term fire razes"
   ],
   "sentiments": [
+    {
+      "headline": "More than 100 missing after flash floods in India",
+      "sentiment": "Negative",
+      "score": -0.3535
+    },
+    {
+      "headline": "Ruto dismisses Hustler Fund critics following KHRC report",
+      "sentiment": "Negative",
+      "score": -0.296
+    },
+    {
+      "headline": "IEBC to announce by-election calendar in a week",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Hiroshima marks 80 years since atomic bombing",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "‘Abducted’ Ugandan student jailed over anti-Museveni TikTok video",
+      "sentiment": "Negative",
+      "score": -0.4939
+    },
+    {
+      "headline": "Rwanda says it has agreed to take up to 250 migrants from the US",
+      "sentiment": "Positive",
+      "score": 0.2732
+    },
+    {
+      "headline": "CS Ruku Dismisses Rigging Claims, Says Development Will Secure Ruto Second Term",
+      "sentiment": "Positive",
+      "score": 0.34
+    },
+    {
+      "headline": "Fire razes down businesses at Kisumu bus park, city promises probe",
+      "sentiment": "Negative",
+      "score": -0.5164
+    },
+    {
+      "headline": "Sh10.8bn eCitizen black hole: Governance gaps, murky deals and irregular payments",
+      "sentiment": "Negative",
+      "score": -0.538
+    },
     {
       "headline": "5 ingenious things trees do that human designers can learn from",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Ditch wooden canoes for safer fibreglass boats, Lake Victoria fishermen told",
-      "sentiment": "Positive",
-      "score": 0.4215
-    },
-    {
-      "headline": "Bribe demands nearly half as frequent in Makueni compared to Kwale: EACC",
-      "sentiment": "Negative",
-      "score": -0.2023
-    },
-    {
-      "headline": "The global health system can build back better after US aid cuts – here’s how",
-      "sentiment": "Positive",
-      "score": 0.1779
-    },
-    {
-      "headline": "What the UN plastic treaty means to a garbage collector in Kisii amid global push to end pollution",
+      "headline": "Masaibu yaendelea kuandama biashara za familia ya Joho",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Hope Beyond the Hijab as Muslim Women Rise to Defend Girls’ Health and Choices.",
-      "sentiment": "Positive",
-      "score": 0.4404
+      "headline": "Mkwanja Mrefu: Thamani ya Microsoft yagonga Sh516 trilioni, yadhihirisha nguvu za AI",
+      "sentiment": "Neutral",
+      "score": 0.0
     },
     {
-      "headline": "Party politics taking shape in Nakuru ahead of 2027 elections",
-      "sentiment": "Positive",
-      "score": 0.4019
+      "headline": "Aibu Rwanda ikikubali kupewa wahamiaji haramu kutoka Amerika",
+      "sentiment": "Neutral",
+      "score": 0.0
     },
     {
-      "headline": "KWS tops bribery list with Sh200,000 average as national mean drops by half",
-      "sentiment": "Positive",
-      "score": 0.5106
+      "headline": "Weta ajitetea kuhusu kucheleweshwa kwa sheria ya kutimua wabunge wazembe",
+      "sentiment": "Neutral",
+      "score": 0.0
     },
     {
-      "headline": "High Court rejects Paradigm Initiative’s bid to join Data Protection Case as Friend of the Court",
-      "sentiment": "Positive",
-      "score": 0.296
+      "headline": "Ripoti yafichua mabilioni yanavyopotea kupitia e- Citizen",
+      "sentiment": "Neutral",
+      "score": 0.0
     },
     {
-      "headline": "National Research Fund roots for technology in addressing food security",
-      "sentiment": "Positive",
-      "score": 0.34
+      "headline": "Uhuru: Nitaunga mkono Raila kuwania urais ikiwa ataachana na Ruto",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Uasin Gishu, Baringo na Elgeyo Marakwet makao makuu ya ufisadi nchini – Ripoti",
+      "sentiment": "Neutral",
+      "score": 0.0
     },
     {
       "headline": "Mzee kuhukumiwa kwa kumuibia mjane pensheni ya Sh750,000",
@@ -96,41 +131,6 @@
     },
     {
       "headline": "Mabroka watatu kuhukumiwa kwa ulaghai wa Sh1.6 milioni",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Quickmart yaomba msamaha, yachunguza madai ya mteja kudhulumiwa",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "DStv kufukuzwa Ghana isipopunguza ada ya huduma",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Hali si hali kwa Isak klabuni Newcastle uhamisho ukigongwa na visiki",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Mkulima wa avokado anavyokabili wadudu kupitia mtego wa sola",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Jinsi vuguvugu la vijana Kenya Moja linaweza kuharibia hesabu Ruto, Raila na Gachagua",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Mikakati ya KMC kuhakikisha Wakenya wanapata nyama bora na salama",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Makanisa yaunga mkono serikali kudhibiti pombe ‘ili kuokoa kizazi cha sasa’",
       "sentiment": "Neutral",
       "score": 0.0
     }

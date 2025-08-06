@@ -10,37 +10,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repo
-      uses: actions/checkout@v4
+      - name: Checkout Repo
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-    - name: Install dependencies
-      run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-    - name: Download NLTK data
-      run: |
-        python -m nltk.downloader punkt stopwords vader_lexicon punkt_tab
-        echo "NLTK_DATA=/home/runner/nltk_data" >> $GITHUB_ENV
+      - name: Download NLTK data
+        run: |
+          python -m nltk.downloader punkt stopwords vader_lexicon
+          echo "NLTK_DATA=/home/runner/nltk_data" >> $GITHUB_ENV
 
-    - name: Set NLTK_DATA path
-      run: echo "NLTK_DATA=/home/runner/nltk_data" >> $GITHUB_ENV
+      - name: Run sentiment pipeline
+        run: python main.py
 
-    - name: Run sentiment pipeline
-      run: python main.py
+      - name: Set up git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-    - name: Set up git user
-      run: |
-         git config --global user.name "github-actions[bot]"
-         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-    - name: Commit and Push changes
-      env:
-       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-       git add .
-       git commit -m "Update results"
-       git push https://x-access-token:${GH_TOKEN}@github.com/EDGARDEVEN/policy-sentiment-tracker.git HEAD:main
+      - name: Commit and Push changes
+        run: |
+          git add .
+          git commit -m "Update results [auto]" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          echo "Changes pushed successfully"
