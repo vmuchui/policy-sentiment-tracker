@@ -1,15 +1,15 @@
 {
   "headlines": [
+    "How Gabriel Oguda went from ‘Ruto must go’ to govt job",
+    "Govt disburses Sh4.6bn Inua Jamii payments",
+    "City Hall services paralysed for second day as staff down tools over 3-month salary delay",
+    "President Ruto mourns with Ghana after chopper crash that killed 8 people",
+    "Suspected gangs members arrested in Mombasa County",
+    "KPC channels Sh3mn into education infrastructure project in Homa Bay",
+    "Bitok: School buses must not operate at night",
     "Petition filed over IEBC’s refusal to process MPs recall",
     "Nigeria seizes 1,600 birds in ‘largest’ wildlife-trafficking bust",
     "Two Ghanaian ministers die in helicopter crash, along with six others",
-    "Governors says counties running broke due to delayed disbursements by Treasury",
-    "High Court halts disputed relocation of students from Moi Teachers College",
-    "Ruto, Raila establish joint team to oversee 10-point broad-based agenda",
-    "OPINION | Senate Should Reject Misguided Bill That Blocks Smokers’ Path to Safer Alternatives",
-    "‘I considered quitting as ODM SG’- Sifuna",
-    "‘Avoid Thika Road unless going to CHAN’ – Traffic Police Commandant advise motorists",
-    "Kisumu traders suspect street urchins behind stalls fire",
     "Ruto fast losing favoured status with the US now calling for probe",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
@@ -22,18 +22,53 @@
     "Charlene Ruto forgives author Ochora in book row, to withdraw charges"
   ],
   "keywords": [
-    "chan ’ – traffic police commandant advise motorists kisumu traders suspect street urchins behind stalls fire ruto fast losing favoured status",
-    "odm sg ’- sifuna ‘ avoid thika road unless going",
-    "six others governors says counties running broke due",
+    "6bn inua jamii payments city hall services paralysed",
     "killed rex masai charlene ruto forgives author ochora",
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
-    "treasury high court halts disputed relocation",
+    "killed 8 people suspected gangs members arrested",
+    "six others ruto fast losing favoured status",
     "trafficking bust two ghanaian ministers die",
+    "month salary delay president ruto mourns",
     "august 15 journalist gives five photos",
     "process mps recall nigeria seizes 1"
   ],
   "sentiments": [
+    {
+      "headline": "How Gabriel Oguda went from ‘Ruto must go’ to govt job",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Govt disburses Sh4.6bn Inua Jamii payments",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "City Hall services paralysed for second day as staff down tools over 3-month salary delay",
+      "sentiment": "Negative",
+      "score": -0.3182
+    },
+    {
+      "headline": "President Ruto mourns with Ghana after chopper crash that killed 8 people",
+      "sentiment": "Negative",
+      "score": -0.891
+    },
+    {
+      "headline": "Suspected gangs members arrested in Mombasa County",
+      "sentiment": "Negative",
+      "score": -0.6124
+    },
+    {
+      "headline": "KPC channels Sh3mn into education infrastructure project in Homa Bay",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Bitok: School buses must not operate at night",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
     {
       "headline": "Petition filed over IEBC’s refusal to process MPs recall",
       "sentiment": "Neutral",
@@ -48,41 +83,6 @@
       "headline": "Two Ghanaian ministers die in helicopter crash, along with six others",
       "sentiment": "Negative",
       "score": -0.765
-    },
-    {
-      "headline": "Governors says counties running broke due to delayed disbursements by Treasury",
-      "sentiment": "Negative",
-      "score": -0.4404
-    },
-    {
-      "headline": "High Court halts disputed relocation of students from Moi Teachers College",
-      "sentiment": "Negative",
-      "score": -0.34
-    },
-    {
-      "headline": "Ruto, Raila establish joint team to oversee 10-point broad-based agenda",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "OPINION | Senate Should Reject Misguided Bill That Blocks Smokers’ Path to Safer Alternatives",
-      "sentiment": "Negative",
-      "score": -0.2023
-    },
-    {
-      "headline": "‘I considered quitting as ODM SG’- Sifuna",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "‘Avoid Thika Road unless going to CHAN’ – Traffic Police Commandant advise motorists",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Kisumu traders suspect street urchins behind stalls fire",
-      "sentiment": "Negative",
-      "score": -0.5574
     },
     {
       "headline": "Ruto fast losing favoured status with the US now calling for probe",
