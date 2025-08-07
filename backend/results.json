@@ -1,6 +1,6 @@
 {
   "headlines": [
-    "Governors says counties running broke to delayed disbursements by Treasury",
+    "Governors says counties running broke due to delayed disbursements by Treasury",
     "High Court halts disputed relocation of students from Moi Teachers College",
     "Ruto, Raila establish joint team to oversee 10-point broad-based agenda",
     "OPINION | Senate Should Reject Misguided Bill That Blocks Smokers’ Path to Safer Alternatives",
@@ -29,13 +29,13 @@
     "burkina faso regional blocs merge peace missions",
     "phoebe asiyo ruto fast losing favoured status",
     "graft reports iebc decries legal gaps",
+    "governors says counties running broke due",
     "august 15 journalist gives five photos",
-    "treasury high court halts disputed relocation",
-    "wetangula infant among five killed"
+    "treasury high court halts disputed relocation"
   ],
   "sentiments": [
     {
-      "headline": "Governors says counties running broke to delayed disbursements by Treasury",
+      "headline": "Governors says counties running broke due to delayed disbursements by Treasury",
       "sentiment": "Negative",
       "score": -0.4404
     },
