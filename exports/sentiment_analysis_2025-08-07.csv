@@ -1,4 +1,7 @@
 Headline,Sentiment,Score
+Petition filed over IEBC’s refusal to process MPs recall,Neutral,0.0
+"Nigeria seizes 1,600 birds in ‘largest’ wildlife-trafficking bust",Neutral,0.0
+"Two Ghanaian ministers die in helicopter crash, along with six others",Negative,-0.765
 Governors says counties running broke due to delayed disbursements by Treasury,Negative,-0.4404
 High Court halts disputed relocation of students from Moi Teachers College,Negative,-0.34
 "Ruto, Raila establish joint team to oversee 10-point broad-based agenda",Neutral,0.0
@@ -6,9 +9,6 @@ OPINION | Senate Should Reject Misguided Bill That Blocks Smokers’ Path to Saf
 ‘I considered quitting as ODM SG’- Sifuna,Neutral,0.0
 ‘Avoid Thika Road unless going to CHAN’ – Traffic Police Commandant advise motorists,Neutral,0.0
 Kisumu traders suspect street urchins behind stalls fire,Negative,-0.5574
-CS Ruku urges EACC to Arrest Corrupt Officials Named in Graft Reports,Negative,-0.34
-"IEBC decries legal gaps on Early Campaigns, Recalls Court Directive for New Law",Positive,0.128
-A legacy of service to children: CWSK pays glowing tribute to Phoebe Asiyo,Neutral,0.0
 Ruto fast losing favoured status with the US now calling for probe,Positive,0.0516
 "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",Neutral,0.0
 "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",Positive,0.25

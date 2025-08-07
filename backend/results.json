@@ -1,5 +1,8 @@
 {
   "headlines": [
+    "Petition filed over IEBC’s refusal to process MPs recall",
+    "Nigeria seizes 1,600 birds in ‘largest’ wildlife-trafficking bust",
+    "Two Ghanaian ministers die in helicopter crash, along with six others",
     "Governors says counties running broke due to delayed disbursements by Treasury",
     "High Court halts disputed relocation of students from Moi Teachers College",
     "Ruto, Raila establish joint team to oversee 10-point broad-based agenda",
@@ -7,9 +10,6 @@
     "‘I considered quitting as ODM SG’- Sifuna",
     "‘Avoid Thika Road unless going to CHAN’ – Traffic Police Commandant advise motorists",
     "Kisumu traders suspect street urchins behind stalls fire",
-    "CS Ruku urges EACC to Arrest Corrupt Officials Named in Graft Reports",
-    "IEBC decries legal gaps on Early Campaigns, Recalls Court Directive for New Law",
-    "A legacy of service to children: CWSK pays glowing tribute to Phoebe Asiyo",
     "Ruto fast losing favoured status with the US now calling for probe",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
@@ -22,18 +22,33 @@
     "Charlene Ruto forgives author Ochora in book row, to withdraw charges"
   ],
   "keywords": [
-    "chan ’ – traffic police commandant advise motorists kisumu traders suspect street urchins behind stalls fire cs ruku urges eacc",
+    "chan ’ – traffic police commandant advise motorists kisumu traders suspect street urchins behind stalls fire ruto fast losing favoured status",
     "odm sg ’- sifuna ‘ avoid thika road unless going",
+    "six others governors says counties running broke due",
     "killed rex masai charlene ruto forgives author ochora",
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
-    "phoebe asiyo ruto fast losing favoured status",
-    "graft reports iebc decries legal gaps",
-    "governors says counties running broke due",
+    "treasury high court halts disputed relocation",
+    "trafficking bust two ghanaian ministers die",
     "august 15 journalist gives five photos",
-    "treasury high court halts disputed relocation"
+    "process mps recall nigeria seizes 1"
   ],
   "sentiments": [
+    {
+      "headline": "Petition filed over IEBC’s refusal to process MPs recall",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Nigeria seizes 1,600 birds in ‘largest’ wildlife-trafficking bust",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Two Ghanaian ministers die in helicopter crash, along with six others",
+      "sentiment": "Negative",
+      "score": -0.765
+    },
     {
       "headline": "Governors says counties running broke due to delayed disbursements by Treasury",
       "sentiment": "Negative",
@@ -68,21 +83,6 @@
       "headline": "Kisumu traders suspect street urchins behind stalls fire",
       "sentiment": "Negative",
       "score": -0.5574
-    },
-    {
-      "headline": "CS Ruku urges EACC to Arrest Corrupt Officials Named in Graft Reports",
-      "sentiment": "Negative",
-      "score": -0.34
-    },
-    {
-      "headline": "IEBC decries legal gaps on Early Campaigns, Recalls Court Directive for New Law",
-      "sentiment": "Positive",
-      "score": 0.128
-    },
-    {
-      "headline": "A legacy of service to children: CWSK pays glowing tribute to Phoebe Asiyo",
-      "sentiment": "Neutral",
-      "score": 0.0
     },
     {
       "headline": "Ruto fast losing favoured status with the US now calling for probe",
