@@ -1,16 +1,16 @@
 {
   "headlines": [
-    "How Gabriel Oguda went from ‘Ruto must go’ to govt job",
-    "Govt disburses Sh4.6bn Inua Jamii payments",
-    "City Hall services paralysed for second day as staff down tools over 3-month salary delay",
-    "President Ruto mourns with Ghana after chopper crash that killed 8 people",
-    "Suspected gangs members arrested in Mombasa County",
-    "KPC channels Sh3mn into education infrastructure project in Homa Bay",
-    "Bitok: School buses must not operate at night",
-    "Petition filed over IEBC’s refusal to process MPs recall",
-    "Nigeria seizes 1,600 birds in ‘largest’ wildlife-trafficking bust",
-    "Two Ghanaian ministers die in helicopter crash, along with six others",
-    "Ruto fast losing favoured status with the US now calling for probe",
+    "Aircraft Goes Down in Githurai 45, Casualties Unknown",
+    "City Hall says July Funds yet to be disbursed by National govt impacting staff pay",
+    "Govt hastening digitization of land registries, CS Wahome says",
+    "Tears and outrage in South Africa as accused in pig farm murder walks free",
+    "DPP opposes bid by Anglo Leasing accused to have defence heard by acquitting magistrate",
+    "Nurturing Resilience: A Mother’s Determination Amid Breastfeeding Challenges",
+    "Self-service usage on the rise at Kenya Power",
+    "President Ruto orders release of over 9,000 motorcycles with no cases",
+    "Mutai petitions President Ruto to dissolve Kericho County Govt",
+    "Kihika demands crackdown on Mai Mahiu child sex ring",
+    "I am the darling of Kenyans, Gachagua tells US media",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
     "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
@@ -22,72 +22,72 @@
     "Charlene Ruto forgives author Ochora in book row, to withdraw charges"
   ],
   "keywords": [
-    "6bn inua jamii payments city hall services paralysed",
+    "pig farm murder walks free dpp opposes bid",
+    "national govt impacting staff pay govt hastening digitization",
+    "casualties unknown city hall says july funds yet",
     "killed rex masai charlene ruto forgives author ochora",
+    "dissolve kericho county govt kihika demands crackdown",
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
-    "killed 8 people suspected gangs members arrested",
-    "six others ruto fast losing favoured status",
-    "trafficking bust two ghanaian ministers die",
-    "month salary delay president ruto mourns",
+    "kenya power president ruto orders release",
     "august 15 journalist gives five photos",
-    "process mps recall nigeria seizes 1"
+    "wetangula infant among five killed"
   ],
   "sentiments": [
     {
-      "headline": "How Gabriel Oguda went from ‘Ruto must go’ to govt job",
+      "headline": "Aircraft Goes Down in Githurai 45, Casualties Unknown",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Govt disburses Sh4.6bn Inua Jamii payments",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "City Hall services paralysed for second day as staff down tools over 3-month salary delay",
+      "headline": "City Hall says July Funds yet to be disbursed by National govt impacting staff pay",
       "sentiment": "Negative",
-      "score": -0.3182
+      "score": -0.1027
     },
     {
-      "headline": "President Ruto mourns with Ghana after chopper crash that killed 8 people",
+      "headline": "Govt hastening digitization of land registries, CS Wahome says",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Tears and outrage in South Africa as accused in pig farm murder walks free",
       "sentiment": "Negative",
-      "score": -0.891
+      "score": -0.8316
     },
     {
-      "headline": "Suspected gangs members arrested in Mombasa County",
-      "sentiment": "Negative",
-      "score": -0.6124
-    },
-    {
-      "headline": "KPC channels Sh3mn into education infrastructure project in Homa Bay",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Bitok: School buses must not operate at night",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Petition filed over IEBC’s refusal to process MPs recall",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Nigeria seizes 1,600 birds in ‘largest’ wildlife-trafficking bust",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Two Ghanaian ministers die in helicopter crash, along with six others",
-      "sentiment": "Negative",
-      "score": -0.765
-    },
-    {
-      "headline": "Ruto fast losing favoured status with the US now calling for probe",
+      "headline": "DPP opposes bid by Anglo Leasing accused to have defence heard by acquitting magistrate",
       "sentiment": "Positive",
-      "score": 0.0516
+      "score": 0.128
+    },
+    {
+      "headline": "Nurturing Resilience: A Mother’s Determination Amid Breastfeeding Challenges",
+      "sentiment": "Positive",
+      "score": 0.7184
+    },
+    {
+      "headline": "Self-service usage on the rise at Kenya Power",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "President Ruto orders release of over 9,000 motorcycles with no cases",
+      "sentiment": "Negative",
+      "score": -0.296
+    },
+    {
+      "headline": "Mutai petitions President Ruto to dissolve Kericho County Govt",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Kihika demands crackdown on Mai Mahiu child sex ring",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "I am the darling of Kenyans, Gachagua tells US media",
+      "sentiment": "Positive",
+      "score": 0.5859
     },
     {
       "headline": "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
