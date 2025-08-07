@@ -10,7 +10,7 @@
     "Self-service usage on the rise at Kenya Power",
     "President Ruto orders release of over 9,000 motorcycles with no cases",
     "Mutai petitions President Ruto to dissolve Kericho County Govt",
-    "Aircraft crashes in Mwihoko",
+    "6 dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
     "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
@@ -28,7 +28,7 @@
     "killed rex masai charlene ruto forgives author ochora",
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
-    "dissolve kericho county govt aircraft crashes",
+    "dissolve kericho county govt 6 dead",
     "august 15 journalist gives five photos",
     "kenya power president ruto orders release",
     "wetangula infant among five killed"
@@ -85,9 +85,9 @@
       "score": 0.0
     },
     {
-      "headline": "Aircraft crashes in Mwihoko",
-      "sentiment": "Neutral",
-      "score": 0.0
+      "headline": "6 dead in AMREF aircraft crash, three minutes after takeoff",
+      "sentiment": "Negative",
+      "score": -0.7906
     },
     {
       "headline": "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
