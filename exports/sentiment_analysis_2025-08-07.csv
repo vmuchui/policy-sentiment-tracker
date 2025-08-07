@@ -1,4 +1,5 @@
 Headline,Sentiment,Score
+Death toll in Mwihoko plane crash rises to 6,Negative,-0.765
 "PS Kiptoo Denies Financial Loss in e-Citizen Platform, Contradicts Auditor General’s Report",Negative,-0.7579
 "Aircraft Goes Down in Githurai 45, Casualties Unknown",Neutral,0.0
 City Hall says July Funds yet to be disbursed by National govt impacting staff pay,Negative,-0.1027
@@ -8,7 +9,8 @@ DPP opposes bid by Anglo Leasing accused to have defence heard by acquitting mag
 Nurturing Resilience: A Mother’s Determination Amid Breastfeeding Challenges,Positive,0.7184
 Self-service usage on the rise at Kenya Power,Neutral,0.0
 "President Ruto orders release of over 9,000 motorcycles with no cases",Negative,-0.296
-Mutai petitions President Ruto to dissolve Kericho County Govt,Neutral,0.0
+How billions were moved in a shadowy web through e-Citizen,Neutral,0.0
+10-man Harambee Stars battle to draw with Angola in CHAN Group A clash,Negative,-0.3818
 "6 dead in AMREF aircraft crash, three minutes after takeoff",Negative,-0.7906
 "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",Neutral,0.0
 "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",Positive,0.25
@@ -17,5 +19,3 @@ Harambee Stars stun DR Congo to kick off CHAN debut with a win,Positive,0.5859
 PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso,Neutral,0.0
 Regional blocs merge peace missions for DRC,Positive,0.5423
 Government to disburse HELB loans and Scholarships from August 15,Neutral,0.0
-"Journalist gives five photos, video to prove who killed Rex Masai",Negative,-0.6705
-"Charlene Ruto forgives author Ochora in book row, to withdraw charges",Positive,0.1531
