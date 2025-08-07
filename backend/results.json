@@ -1,5 +1,6 @@
 {
   "headlines": [
+    "PS Kiptoo Denies Financial Loss in e-Citizen Platform, Contradicts Auditor General’s Report",
     "Aircraft Goes Down in Githurai 45, Casualties Unknown",
     "City Hall says July Funds yet to be disbursed by National govt impacting staff pay",
     "Govt hastening digitization of land registries, CS Wahome says",
@@ -9,8 +10,7 @@
     "Self-service usage on the rise at Kenya Power",
     "President Ruto orders release of over 9,000 motorcycles with no cases",
     "Mutai petitions President Ruto to dissolve Kericho County Govt",
-    "Kihika demands crackdown on Mai Mahiu child sex ring",
-    "I am the darling of Kenyans, Gachagua tells US media",
+    "Aircraft crashes in Mwihoko",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
     "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
@@ -26,14 +26,19 @@
     "national govt impacting staff pay govt hastening digitization",
     "casualties unknown city hall says july funds yet",
     "killed rex masai charlene ruto forgives author ochora",
-    "dissolve kericho county govt kihika demands crackdown",
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
-    "kenya power president ruto orders release",
+    "dissolve kericho county govt aircraft crashes",
     "august 15 journalist gives five photos",
+    "kenya power president ruto orders release",
     "wetangula infant among five killed"
   ],
   "sentiments": [
+    {
+      "headline": "PS Kiptoo Denies Financial Loss in e-Citizen Platform, Contradicts Auditor General’s Report",
+      "sentiment": "Negative",
+      "score": -0.7579
+    },
     {
       "headline": "Aircraft Goes Down in Githurai 45, Casualties Unknown",
       "sentiment": "Neutral",
@@ -80,14 +85,9 @@
       "score": 0.0
     },
     {
-      "headline": "Kihika demands crackdown on Mai Mahiu child sex ring",
+      "headline": "Aircraft crashes in Mwihoko",
       "sentiment": "Neutral",
       "score": 0.0
-    },
-    {
-      "headline": "I am the darling of Kenyans, Gachagua tells US media",
-      "sentiment": "Positive",
-      "score": 0.5859
     },
     {
       "headline": "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
