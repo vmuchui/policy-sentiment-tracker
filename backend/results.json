@@ -1,5 +1,6 @@
 {
   "headlines": [
+    "19 people killed in road accident along Kisumu-Kakamega highway",
     "President Ruto says initiative to compensate protest victims to unite Kenyans",
     "CS Murkomen puts on notice police officers engaging in corruption",
     "A Resilient Nation: How Kenya Is Shaping a Smarter War Against Terror",
@@ -9,8 +10,7 @@
     "South African court rules that Zambia can repatriate body of ex-president",
     "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
     "Kenya’s sleeping sickness no longer a public health threat – What this means",
-    "MPs shoot down Sabina’s motion requiring all public officers to use public hospitals",
-    "Senior cop kills junior after fight over woman",
+    "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
@@ -23,17 +23,22 @@
   ],
   "keywords": [
     "beating sleeping sickness ghana investigators find ‘ black boxes ’",
-    "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
-    "killed two ministers south african court rules",
-    "use public hospitals senior cop kills junior",
+    "eldoret highway harambee stars stun dr congo",
     "insurances amid sha portal probe kenya ’",
+    "killed two ministers south african court rules",
     "500 ‘ green army ’ staff",
     "august 15 journalist gives five photos",
-    "wetangula infant among five killed",
-    "unite kenyans cs murkomen puts"
+    "kakamega highway president ruto says initiative",
+    "unite kenyans cs murkomen puts",
+    "wetangula infant among five killed"
   ],
   "sentiments": [
+    {
+      "headline": "19 people killed in road accident along Kisumu-Kakamega highway",
+      "sentiment": "Negative",
+      "score": -0.8225
+    },
     {
       "headline": "President Ruto says initiative to compensate protest victims to unite Kenyans",
       "sentiment": "Negative",
@@ -80,14 +85,9 @@
       "score": -0.6808
     },
     {
-      "headline": "MPs shoot down Sabina’s motion requiring all public officers to use public hospitals",
+      "headline": "20 killed in Kisumu road crash",
       "sentiment": "Negative",
-      "score": -0.34
-    },
-    {
-      "headline": "Senior cop kills junior after fight over woman",
-      "sentiment": "Negative",
-      "score": -0.7269
+      "score": -0.802
     },
     {
       "headline": "Six dead in AMREF aircraft crash, three minutes after takeoff",
