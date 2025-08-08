@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from backend.utils.data_loader import load_sentiment_results
+from utils.data_loader import load_sentiment_results
 
 router = APIRouter(prefix="/api/sentiment", tags=["Sentiment"])
 

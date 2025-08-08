@@ -1,101 +1,96 @@
 {
   "headlines": [
-    "Watuka Boys’ School Bus to be auctioned Over KSh 1.1 Million Debt",
-    "Gender equality icon, ex-Karachuonyo MP Phoebe Asiyo to be laid to rest on Friday",
-    "Probe underway after train slams into bus; leaving 8 dead, scores injured",
-    "Death toll in Mwihoko plane crash rises to 6",
-    "PS Kiptoo Denies Financial Loss in e-Citizen Platform, Contradicts Auditor General’s Report",
-    "Aircraft Goes Down in Githurai 45, Casualties Unknown",
-    "City Hall says July Funds yet to be disbursed by National govt impacting staff pay",
-    "Govt hastening digitization of land registries, CS Wahome says",
-    "Tears and outrage in South Africa as accused in pig farm murder walks free",
-    "DPP opposes bid by Anglo Leasing accused to have defence heard by acquitting magistrate",
-    "How billions were moved in a shadowy web through e-Citizen",
-    "10-man Harambee Stars battle to draw with Angola in CHAN Group A clash",
-    "6 dead in AMREF aircraft crash, three minutes after takeoff",
+    "19 people killed in road accident along Kisumu-Kakamega highway",
+    "President Ruto says initiative to compensate protest victims to unite Kenyans",
+    "CS Murkomen puts on notice police officers engaging in corruption",
+    "A Resilient Nation: How Kenya Is Shaping a Smarter War Against Terror",
+    "Sakaja confirms 3,500 ‘Green Army’ staff into permanent posts",
+    "Kenya targets more disease eliminations after beating sleeping sickness",
+    "Ghana investigators find ‘black boxes’ of helicopter that crashed and killed two ministers",
+    "South African court rules that Zambia can repatriate body of ex-president",
+    "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
+    "Kenya’s sleeping sickness no longer a public health threat – What this means",
+    "20 killed in Kisumu road crash",
+    "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
     "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
     "Harambee Stars stun DR Congo to kick off CHAN debut with a win",
     "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso",
     "Regional blocs merge peace missions for DRC",
-    "Government to disburse HELB loans and Scholarships from August 15"
+    "Government to disburse HELB loans and Scholarships from August 15",
+    "Journalist gives five photos, video to prove who killed Rex Masai"
   ],
   "keywords": [
-    "pig farm murder walks free dpp opposes bid",
-    "national govt impacting staff pay govt hastening digitization",
-    "casualties unknown city hall says july funds yet",
+    "beating sleeping sickness ghana investigators find ‘ black boxes ’",
     "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
-    "6 ps kiptoo denies financial loss",
-    "1 million debt gender equality icon",
-    "wetangula infant among five killed",
-    "watuka boys ’ school bus",
-    "man harambee stars battle"
+    "insurances amid sha portal probe kenya ’",
+    "killed two ministers south african court rules",
+    "500 ‘ green army ’ staff",
+    "august 15 journalist gives five photos",
+    "kakamega highway president ruto says initiative",
+    "unite kenyans cs murkomen puts",
+    "wetangula infant among five killed"
   ],
   "sentiments": [
     {
-      "headline": "Watuka Boys’ School Bus to be auctioned Over KSh 1.1 Million Debt",
+      "headline": "19 people killed in road accident along Kisumu-Kakamega highway",
       "sentiment": "Negative",
-      "score": -0.3612
+      "score": -0.8225
     },
     {
-      "headline": "Gender equality icon, ex-Karachuonyo MP Phoebe Asiyo to be laid to rest on Friday",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Probe underway after train slams into bus; leaving 8 dead, scores injured",
+      "headline": "President Ruto says initiative to compensate protest victims to unite Kenyans",
       "sentiment": "Negative",
-      "score": -0.7906
+      "score": -0.5106
     },
     {
-      "headline": "Death toll in Mwihoko plane crash rises to 6",
-      "sentiment": "Negative",
-      "score": -0.765
-    },
-    {
-      "headline": "PS Kiptoo Denies Financial Loss in e-Citizen Platform, Contradicts Auditor General’s Report",
-      "sentiment": "Negative",
-      "score": -0.7579
-    },
-    {
-      "headline": "Aircraft Goes Down in Githurai 45, Casualties Unknown",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "City Hall says July Funds yet to be disbursed by National govt impacting staff pay",
-      "sentiment": "Negative",
-      "score": -0.1027
-    },
-    {
-      "headline": "Govt hastening digitization of land registries, CS Wahome says",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Tears and outrage in South Africa as accused in pig farm murder walks free",
-      "sentiment": "Negative",
-      "score": -0.8316
-    },
-    {
-      "headline": "DPP opposes bid by Anglo Leasing accused to have defence heard by acquitting magistrate",
+      "headline": "CS Murkomen puts on notice police officers engaging in corruption",
       "sentiment": "Positive",
-      "score": 0.128
+      "score": 0.34
     },
     {
-      "headline": "How billions were moved in a shadowy web through e-Citizen",
+      "headline": "A Resilient Nation: How Kenya Is Shaping a Smarter War Against Terror",
+      "sentiment": "Negative",
+      "score": -0.6486
+    },
+    {
+      "headline": "Sakaja confirms 3,500 ‘Green Army’ staff into permanent posts",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "10-man Harambee Stars battle to draw with Angola in CHAN Group A clash",
+      "headline": "Kenya targets more disease eliminations after beating sleeping sickness",
       "sentiment": "Negative",
-      "score": -0.3818
+      "score": -0.4588
     },
     {
-      "headline": "6 dead in AMREF aircraft crash, three minutes after takeoff",
+      "headline": "Ghana investigators find ‘black boxes’ of helicopter that crashed and killed two ministers",
+      "sentiment": "Negative",
+      "score": -0.6705
+    },
+    {
+      "headline": "South African court rules that Zambia can repatriate body of ex-president",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Kenya’s sleeping sickness no longer a public health threat – What this means",
+      "sentiment": "Negative",
+      "score": -0.6808
+    },
+    {
+      "headline": "20 killed in Kisumu road crash",
+      "sentiment": "Negative",
+      "score": -0.802
+    },
+    {
+      "headline": "Six dead in AMREF aircraft crash, three minutes after takeoff",
       "sentiment": "Negative",
       "score": -0.7906
     },
@@ -133,6 +128,11 @@
       "headline": "Government to disburse HELB loans and Scholarships from August 15",
       "sentiment": "Neutral",
       "score": 0.0
+    },
+    {
+      "headline": "Journalist gives five photos, video to prove who killed Rex Masai",
+      "sentiment": "Negative",
+      "score": -0.6705
     }
   ]
 }

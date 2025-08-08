@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from backend.routes.sentiment import router as sentiment_router
+from routes.sentiment import router as sentiment_router
 
 app = FastAPI(title="Policy Sentiment Tracker API")
 
