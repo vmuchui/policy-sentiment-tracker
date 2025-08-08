@@ -1,5 +1,6 @@
 {
   "headlines": [
+    "President Ruto says initiative to compensate protest victims to unite Kenyans",
     "CS Murkomen puts on notice police officers engaging in corruption",
     "A Resilient Nation: How Kenya Is Shaping a Smarter War Against Terror",
     "Sakaja confirms 3,500 ‘Green Army’ staff into permanent posts",
@@ -9,8 +10,7 @@
     "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
     "Kenya’s sleeping sickness no longer a public health threat – What this means",
     "MPs shoot down Sabina’s motion requiring all public officers to use public hospitals",
-    "Netanyahu divides Israelis and allies with plan for new military push in Gaza",
-    "Orengo makes first public appearance in weeks at Phoebe Asiyo's burial",
+    "Senior cop kills junior after fight over woman",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
@@ -26,14 +26,19 @@
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
     "killed two ministers south african court rules",
+    "use public hospitals senior cop kills junior",
     "insurances amid sha portal probe kenya ’",
     "500 ‘ green army ’ staff",
     "august 15 journalist gives five photos",
-    "use public hospitals netanyahu divides israelis",
-    "gaza orengo makes first public appearance",
-    "wetangula infant among five killed"
+    "wetangula infant among five killed",
+    "unite kenyans cs murkomen puts"
   ],
   "sentiments": [
+    {
+      "headline": "President Ruto says initiative to compensate protest victims to unite Kenyans",
+      "sentiment": "Negative",
+      "score": -0.5106
+    },
     {
       "headline": "CS Murkomen puts on notice police officers engaging in corruption",
       "sentiment": "Positive",
@@ -80,14 +85,9 @@
       "score": -0.34
     },
     {
-      "headline": "Netanyahu divides Israelis and allies with plan for new military push in Gaza",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Orengo makes first public appearance in weeks at Phoebe Asiyo's burial",
-      "sentiment": "Neutral",
-      "score": 0.0
+      "headline": "Senior cop kills junior after fight over woman",
+      "sentiment": "Negative",
+      "score": -0.7269
     },
     {
       "headline": "Six dead in AMREF aircraft crash, three minutes after takeoff",
