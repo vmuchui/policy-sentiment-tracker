@@ -10,6 +10,7 @@
     "South African court rules that Zambia can repatriate body of ex-president",
     "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
     "Kenya’s sleeping sickness no longer a public health threat – What this means",
+    "Parliament cited for rent seeking in the name of oversight role",
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
@@ -18,20 +19,19 @@
     "Harambee Stars stun DR Congo to kick off CHAN debut with a win",
     "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso",
     "Regional blocs merge peace missions for DRC",
-    "Government to disburse HELB loans and Scholarships from August 15",
-    "Journalist gives five photos, video to prove who killed Rex Masai"
+    "Government to disburse HELB loans and Scholarships from August 15"
   ],
   "keywords": [
     "beating sleeping sickness ghana investigators find ‘ black boxes ’",
     "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
-    "insurances amid sha portal probe kenya ’",
     "killed two ministers south african court rules",
+    "insurances amid sha portal probe kenya ’",
     "500 ‘ green army ’ staff",
-    "august 15 journalist gives five photos",
     "kakamega highway president ruto says initiative",
     "unite kenyans cs murkomen puts",
-    "wetangula infant among five killed"
+    "wetangula infant among five killed",
+    "kisumu road crash six dead"
   ],
   "sentiments": [
     {
@@ -85,6 +85,11 @@
       "score": -0.6808
     },
     {
+      "headline": "Parliament cited for rent seeking in the name of oversight role",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
       "headline": "20 killed in Kisumu road crash",
       "sentiment": "Negative",
       "score": -0.802
@@ -128,11 +133,6 @@
       "headline": "Government to disburse HELB loans and Scholarships from August 15",
       "sentiment": "Neutral",
       "score": 0.0
-    },
-    {
-      "headline": "Journalist gives five photos, video to prove who killed Rex Masai",
-      "sentiment": "Negative",
-      "score": -0.6705
     }
   ]
 }
