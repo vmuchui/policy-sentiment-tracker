@@ -1,16 +1,16 @@
 {
   "headlines": [
-    "Ghana promises full investigation into helicopter crash which killed two ministers",
-    "President Ruto forms team to coordinate compensation of protest victims",
-    "Kenya Validated by WHO as having eliminated sleeping sickness",
-    "Mudavadi: Kenya–US Relations Remain Strong, No Crisis",
-    "40 hospitals suspended from SHA over fraud: CS Duale",
-    "CS Ruku Castigates Gachagua Over ‘Cousin’ Remarks",
-    "Nairobi lawyer arrested over Sh79mn fake gold deal",
-    "US offers $50m reward for arrest of Venezuelan leader Nicolás Maduro",
-    "President Ruto launches National Medical Equipment Service Project",
-    "Mudavadi advocates diplomatic efforts amid trade tariffs tiff with Tanzania",
-    "Yet another 'task force': Ruto forms team to organise protest victims' compensation",
+    "CS Murkomen puts on notice police officers engaging in corruption",
+    "A Resilient Nation: How Kenya Is Shaping a Smarter War Against Terror",
+    "Sakaja confirms 3,500 ‘Green Army’ staff into permanent posts",
+    "Kenya targets more disease eliminations after beating sleeping sickness",
+    "Ghana investigators find ‘black boxes’ of helicopter that crashed and killed two ministers",
+    "South African court rules that Zambia can repatriate body of ex-president",
+    "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
+    "Kenya’s sleeping sickness no longer a public health threat – What this means",
+    "MPs shoot down Sabina’s motion requiring all public officers to use public hospitals",
+    "Netanyahu divides Israelis and allies with plan for new military push in Gaza",
+    "Orengo makes first public appearance in weeks at Phoebe Asiyo's burial",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
@@ -22,72 +22,72 @@
     "Journalist gives five photos, video to prove who killed Rex Masai"
   ],
   "keywords": [
-    "venezuelan leader nicolás maduro president ruto launches national medical equipment service project mudavadi advocates diplomatic efforts amid trade tariffs tiff",
-    "killed two ministers president ruto forms team",
-    "‘ cousin ’ remarks nairobi lawyer arrested",
+    "beating sleeping sickness ghana investigators find ‘ black boxes ’",
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
-    "task force ': ruto forms team",
-    "cs duale cs ruku castigates gachagua",
+    "killed two ministers south african court rules",
+    "insurances amid sha portal probe kenya ’",
+    "500 ‘ green army ’ staff",
     "august 15 journalist gives five photos",
-    "kenya – us relations remain strong",
-    "sh79mn fake gold deal us offers"
+    "use public hospitals netanyahu divides israelis",
+    "gaza orengo makes first public appearance",
+    "wetangula infant among five killed"
   ],
   "sentiments": [
     {
-      "headline": "Ghana promises full investigation into helicopter crash which killed two ministers",
-      "sentiment": "Negative",
-      "score": -0.6808
-    },
-    {
-      "headline": "President Ruto forms team to coordinate compensation of protest victims",
-      "sentiment": "Negative",
-      "score": -0.5106
-    },
-    {
-      "headline": "Kenya Validated by WHO as having eliminated sleeping sickness",
+      "headline": "CS Murkomen puts on notice police officers engaging in corruption",
       "sentiment": "Positive",
-      "score": 0.2263
+      "score": 0.34
     },
     {
-      "headline": "Mudavadi: Kenya–US Relations Remain Strong, No Crisis",
+      "headline": "A Resilient Nation: How Kenya Is Shaping a Smarter War Against Terror",
+      "sentiment": "Negative",
+      "score": -0.6486
+    },
+    {
+      "headline": "Sakaja confirms 3,500 ‘Green Army’ staff into permanent posts",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Kenya targets more disease eliminations after beating sleeping sickness",
       "sentiment": "Negative",
       "score": -0.4588
     },
     {
-      "headline": "40 hospitals suspended from SHA over fraud: CS Duale",
+      "headline": "Ghana investigators find ‘black boxes’ of helicopter that crashed and killed two ministers",
       "sentiment": "Negative",
-      "score": -0.7845
+      "score": -0.6705
     },
     {
-      "headline": "CS Ruku Castigates Gachagua Over ‘Cousin’ Remarks",
+      "headline": "South African court rules that Zambia can repatriate body of ex-president",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Nairobi lawyer arrested over Sh79mn fake gold deal",
-      "sentiment": "Negative",
-      "score": -0.7351
-    },
-    {
-      "headline": "US offers $50m reward for arrest of Venezuelan leader Nicolás Maduro",
-      "sentiment": "Positive",
-      "score": 0.3182
-    },
-    {
-      "headline": "President Ruto launches National Medical Equipment Service Project",
+      "headline": "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Mudavadi advocates diplomatic efforts amid trade tariffs tiff with Tanzania",
+      "headline": "Kenya’s sleeping sickness no longer a public health threat – What this means",
+      "sentiment": "Negative",
+      "score": -0.6808
+    },
+    {
+      "headline": "MPs shoot down Sabina’s motion requiring all public officers to use public hospitals",
+      "sentiment": "Negative",
+      "score": -0.34
+    },
+    {
+      "headline": "Netanyahu divides Israelis and allies with plan for new military push in Gaza",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Yet another 'task force': Ruto forms team to organise protest victims' compensation",
-      "sentiment": "Negative",
-      "score": -0.5106
+      "headline": "Orengo makes first public appearance in weeks at Phoebe Asiyo's burial",
+      "sentiment": "Neutral",
+      "score": 0.0
     },
     {
       "headline": "Six dead in AMREF aircraft crash, three minutes after takeoff",
