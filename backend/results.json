@@ -1,15 +1,15 @@
 {
   "headlines": [
+    "CS Ruku Castigates Gachagua Over ‘Cousin’ Remarks",
+    "Nairobi lawyer arrested over Sh79mn fake gold deal",
+    "US offers $50m reward for arrest of Venezuelan leader Nicolás Maduro",
+    "President Ruto launches National Medical Equipment Service Project",
+    "Mudavadi advocates diplomatic efforts amid trade tariffs tiff with Tanzania",
     "Watuka Boys’ School Bus to be auctioned Over KSh 1.1 Million Debt",
     "Gender equality icon, ex-Karachuonyo MP Phoebe Asiyo to be laid to rest on Friday",
     "Probe underway after train slams into bus; leaving 8 dead, scores injured",
     "Death toll in Mwihoko plane crash rises to 6",
     "PS Kiptoo Denies Financial Loss in e-Citizen Platform, Contradicts Auditor General’s Report",
-    "Aircraft Goes Down in Githurai 45, Casualties Unknown",
-    "City Hall says July Funds yet to be disbursed by National govt impacting staff pay",
-    "Govt hastening digitization of land registries, CS Wahome says",
-    "Tears and outrage in South Africa as accused in pig farm murder walks free",
-    "DPP opposes bid by Anglo Leasing accused to have defence heard by acquitting magistrate",
     "How billions were moved in a shadowy web through e-Citizen",
     "10-man Harambee Stars battle to draw with Angola in CHAN Group A clash",
     "6 dead in AMREF aircraft crash, three minutes after takeoff",
@@ -22,18 +22,43 @@
     "Government to disburse HELB loans and Scholarships from August 15"
   ],
   "keywords": [
-    "pig farm murder walks free dpp opposes bid",
-    "national govt impacting staff pay govt hastening digitization",
-    "casualties unknown city hall says july funds yet",
+    "venezuelan leader nicolás maduro president ruto launches national medical equipment service project mudavadi advocates diplomatic efforts amid trade tariffs tiff",
     "burkina faso regional blocs merge peace missions",
+    "‘ cousin ’ remarks nairobi lawyer arrested",
     "eldoret highway harambee stars stun dr congo",
     "6 ps kiptoo denies financial loss",
+    "sh79mn fake gold deal us offers",
     "1 million debt gender equality icon",
+    "tanzania watuka boys ’ school bus",
     "wetangula infant among five killed",
-    "watuka boys ’ school bus",
     "man harambee stars battle"
   ],
   "sentiments": [
+    {
+      "headline": "CS Ruku Castigates Gachagua Over ‘Cousin’ Remarks",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Nairobi lawyer arrested over Sh79mn fake gold deal",
+      "sentiment": "Negative",
+      "score": -0.7351
+    },
+    {
+      "headline": "US offers $50m reward for arrest of Venezuelan leader Nicolás Maduro",
+      "sentiment": "Positive",
+      "score": 0.3182
+    },
+    {
+      "headline": "President Ruto launches National Medical Equipment Service Project",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Mudavadi advocates diplomatic efforts amid trade tariffs tiff with Tanzania",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
     {
       "headline": "Watuka Boys’ School Bus to be auctioned Over KSh 1.1 Million Debt",
       "sentiment": "Negative",
@@ -58,31 +83,6 @@
       "headline": "PS Kiptoo Denies Financial Loss in e-Citizen Platform, Contradicts Auditor General’s Report",
       "sentiment": "Negative",
       "score": -0.7579
-    },
-    {
-      "headline": "Aircraft Goes Down in Githurai 45, Casualties Unknown",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "City Hall says July Funds yet to be disbursed by National govt impacting staff pay",
-      "sentiment": "Negative",
-      "score": -0.1027
-    },
-    {
-      "headline": "Govt hastening digitization of land registries, CS Wahome says",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Tears and outrage in South Africa as accused in pig farm murder walks free",
-      "sentiment": "Negative",
-      "score": -0.8316
-    },
-    {
-      "headline": "DPP opposes bid by Anglo Leasing accused to have defence heard by acquitting magistrate",
-      "sentiment": "Positive",
-      "score": 0.128
     },
     {
       "headline": "How billions were moved in a shadowy web through e-Citizen",
