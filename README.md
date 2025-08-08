@@ -32,9 +32,7 @@ A Python-based tool for **scraping Kenyan news headlines**, **extracting trendin
 - (Positive, Score=0.8126) Ruto’s deal with Hambee Starts...
 - (Negative, Score=-0.6486) Police arrest notorious Kwale gang...
 ...
-
-
-
+```
 ---
 
 ## 🛠️ Installation
