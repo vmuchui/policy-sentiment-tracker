@@ -1,5 +1,8 @@
 {
   "headlines": [
+    "Watuka Boys’ School Bus to be auctioned Over KSh 1.1 Million Debt",
+    "Gender equality icon, ex-Karachuonyo MP Phoebe Asiyo to be laid to rest on Friday",
+    "Probe underway after train slams into bus; leaving 8 dead, scores injured",
     "Death toll in Mwihoko plane crash rises to 6",
     "PS Kiptoo Denies Financial Loss in e-Citizen Platform, Contradicts Auditor General’s Report",
     "Aircraft Goes Down in Githurai 45, Casualties Unknown",
@@ -7,9 +10,6 @@
     "Govt hastening digitization of land registries, CS Wahome says",
     "Tears and outrage in South Africa as accused in pig farm murder walks free",
     "DPP opposes bid by Anglo Leasing accused to have defence heard by acquitting magistrate",
-    "Nurturing Resilience: A Mother’s Determination Amid Breastfeeding Challenges",
-    "Self-service usage on the rise at Kenya Power",
-    "President Ruto orders release of over 9,000 motorcycles with no cases",
     "How billions were moved in a shadowy web through e-Citizen",
     "10-man Harambee Stars battle to draw with Angola in CHAN Group A clash",
     "6 dead in AMREF aircraft crash, three minutes after takeoff",
@@ -28,12 +28,27 @@
     "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
     "6 ps kiptoo denies financial loss",
-    "kenya power president ruto orders release",
+    "1 million debt gender equality icon",
     "wetangula infant among five killed",
-    "determination amid breastfeeding challenges self",
+    "watuka boys ’ school bus",
     "man harambee stars battle"
   ],
   "sentiments": [
+    {
+      "headline": "Watuka Boys’ School Bus to be auctioned Over KSh 1.1 Million Debt",
+      "sentiment": "Negative",
+      "score": -0.3612
+    },
+    {
+      "headline": "Gender equality icon, ex-Karachuonyo MP Phoebe Asiyo to be laid to rest on Friday",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Probe underway after train slams into bus; leaving 8 dead, scores injured",
+      "sentiment": "Negative",
+      "score": -0.7906
+    },
     {
       "headline": "Death toll in Mwihoko plane crash rises to 6",
       "sentiment": "Negative",
@@ -68,21 +83,6 @@
       "headline": "DPP opposes bid by Anglo Leasing accused to have defence heard by acquitting magistrate",
       "sentiment": "Positive",
       "score": 0.128
-    },
-    {
-      "headline": "Nurturing Resilience: A Mother’s Determination Amid Breastfeeding Challenges",
-      "sentiment": "Positive",
-      "score": 0.7184
-    },
-    {
-      "headline": "Self-service usage on the rise at Kenya Power",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "President Ruto orders release of over 9,000 motorcycles with no cases",
-      "sentiment": "Negative",
-      "score": -0.296
     },
     {
       "headline": "How billions were moved in a shadowy web through e-Citizen",
