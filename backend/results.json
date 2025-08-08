@@ -1,39 +1,64 @@
 {
   "headlines": [
+    "Ghana promises full investigation into helicopter crash which killed two ministers",
+    "President Ruto forms team to coordinate compensation of protest victims",
+    "Kenya Validated by WHO as having eliminated sleeping sickness",
+    "Mudavadi: Kenya–US Relations Remain Strong, No Crisis",
+    "40 hospitals suspended from SHA over fraud: CS Duale",
     "CS Ruku Castigates Gachagua Over ‘Cousin’ Remarks",
     "Nairobi lawyer arrested over Sh79mn fake gold deal",
     "US offers $50m reward for arrest of Venezuelan leader Nicolás Maduro",
     "President Ruto launches National Medical Equipment Service Project",
     "Mudavadi advocates diplomatic efforts amid trade tariffs tiff with Tanzania",
-    "Watuka Boys’ School Bus to be auctioned Over KSh 1.1 Million Debt",
-    "Gender equality icon, ex-Karachuonyo MP Phoebe Asiyo to be laid to rest on Friday",
-    "Probe underway after train slams into bus; leaving 8 dead, scores injured",
-    "Death toll in Mwihoko plane crash rises to 6",
-    "PS Kiptoo Denies Financial Loss in e-Citizen Platform, Contradicts Auditor General’s Report",
-    "How billions were moved in a shadowy web through e-Citizen",
-    "10-man Harambee Stars battle to draw with Angola in CHAN Group A clash",
-    "6 dead in AMREF aircraft crash, three minutes after takeoff",
+    "Yet another 'task force': Ruto forms team to organise protest victims' compensation",
+    "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
     "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
     "Harambee Stars stun DR Congo to kick off CHAN debut with a win",
     "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso",
     "Regional blocs merge peace missions for DRC",
-    "Government to disburse HELB loans and Scholarships from August 15"
+    "Government to disburse HELB loans and Scholarships from August 15",
+    "Journalist gives five photos, video to prove who killed Rex Masai"
   ],
   "keywords": [
     "venezuelan leader nicolás maduro president ruto launches national medical equipment service project mudavadi advocates diplomatic efforts amid trade tariffs tiff",
-    "burkina faso regional blocs merge peace missions",
+    "killed two ministers president ruto forms team",
     "‘ cousin ’ remarks nairobi lawyer arrested",
     "eldoret highway harambee stars stun dr congo",
-    "6 ps kiptoo denies financial loss",
-    "sh79mn fake gold deal us offers",
-    "1 million debt gender equality icon",
-    "tanzania watuka boys ’ school bus",
-    "wetangula infant among five killed",
-    "man harambee stars battle"
+    "burkina faso regional blocs merge peace missions",
+    "task force ': ruto forms team",
+    "cs duale cs ruku castigates gachagua",
+    "august 15 journalist gives five photos",
+    "kenya – us relations remain strong",
+    "sh79mn fake gold deal us offers"
   ],
   "sentiments": [
+    {
+      "headline": "Ghana promises full investigation into helicopter crash which killed two ministers",
+      "sentiment": "Negative",
+      "score": -0.6808
+    },
+    {
+      "headline": "President Ruto forms team to coordinate compensation of protest victims",
+      "sentiment": "Negative",
+      "score": -0.5106
+    },
+    {
+      "headline": "Kenya Validated by WHO as having eliminated sleeping sickness",
+      "sentiment": "Positive",
+      "score": 0.2263
+    },
+    {
+      "headline": "Mudavadi: Kenya–US Relations Remain Strong, No Crisis",
+      "sentiment": "Negative",
+      "score": -0.4588
+    },
+    {
+      "headline": "40 hospitals suspended from SHA over fraud: CS Duale",
+      "sentiment": "Negative",
+      "score": -0.7845
+    },
     {
       "headline": "CS Ruku Castigates Gachagua Over ‘Cousin’ Remarks",
       "sentiment": "Neutral",
@@ -60,42 +85,12 @@
       "score": 0.0
     },
     {
-      "headline": "Watuka Boys’ School Bus to be auctioned Over KSh 1.1 Million Debt",
+      "headline": "Yet another 'task force': Ruto forms team to organise protest victims' compensation",
       "sentiment": "Negative",
-      "score": -0.3612
+      "score": -0.5106
     },
     {
-      "headline": "Gender equality icon, ex-Karachuonyo MP Phoebe Asiyo to be laid to rest on Friday",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Probe underway after train slams into bus; leaving 8 dead, scores injured",
-      "sentiment": "Negative",
-      "score": -0.7906
-    },
-    {
-      "headline": "Death toll in Mwihoko plane crash rises to 6",
-      "sentiment": "Negative",
-      "score": -0.765
-    },
-    {
-      "headline": "PS Kiptoo Denies Financial Loss in e-Citizen Platform, Contradicts Auditor General’s Report",
-      "sentiment": "Negative",
-      "score": -0.7579
-    },
-    {
-      "headline": "How billions were moved in a shadowy web through e-Citizen",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "10-man Harambee Stars battle to draw with Angola in CHAN Group A clash",
-      "sentiment": "Negative",
-      "score": -0.3818
-    },
-    {
-      "headline": "6 dead in AMREF aircraft crash, three minutes after takeoff",
+      "headline": "Six dead in AMREF aircraft crash, three minutes after takeoff",
       "sentiment": "Negative",
       "score": -0.7906
     },
@@ -133,6 +128,11 @@
       "headline": "Government to disburse HELB loans and Scholarships from August 15",
       "sentiment": "Neutral",
       "score": 0.0
+    },
+    {
+      "headline": "Journalist gives five photos, video to prove who killed Rex Masai",
+      "sentiment": "Negative",
+      "score": -0.6705
     }
   ]
 }
