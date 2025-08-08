@@ -32,12 +32,7 @@ A Python-based tool for **scraping Kenyan news headlines**, **extracting trendin
 - (Positive, Score=0.8126) Ruto’s deal with Hambee Starts...
 - (Negative, Score=-0.6486) Police arrest notorious Kwale gang...
 ...
-
-📊 Dashboard:
-[A pie chart showing % distribution of Positive, Negative, and Neutral sentiments]
-(Figure1.png)
 ```
-
 ---
 
 ## 🛠️ Installation
@@ -66,6 +61,14 @@ pip install -r requirements.txt
 
 ## ▶️ How to Run
 
+First, ensure you have the required NLTK data files. On the terminal run:
+
+```bash
+python -m nltk.downloader punkt stopwords vader_lexicon punkt_tab  # This will download the required nltk data
+```
+
+Then, run the main script:
+
 ```bash
 python main.py
 ```
@@ -75,49 +78,26 @@ The script will:
 - Extract keywords
 - Analyze sentiment
 - Display the sentiment dashboard
-- Save the results to `output/sentiment_results_<date>.csv`
+- Save the results to `exports/sentiment_results_<date>.csv and backend/results.json`
 
----
-
-## 📂 Project Structure
-
-```
-policy-sentiment-tracker/
-│
-├── scraper/
-│   └── news_headline_scraper.py        # Scrapes headlines from RSS feeds
-│
-├── analyzer/
-│   ├── sentiment_analyzer.py           # Sentiment scoring logic (VADER)
-│
-├── dashboard/
-│   └── sentiment_dashboard.py          # Simple pie chart visualization
-│
-├── utils/
-│   └── keyword_extractor.py            # Extracts key phrases using NLTK
-│
-├── output/
-│   └── sentiment_results_<date>.csv    # Auto-generated daily results
-│
-├── main.py                             # Entry point
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 📌 Dependencies
-
-- `feedparser`
-- `nltk`
-- `matplotlib`
-- `pandas`
-
-You can install them via:
-
+Then, run the local server:
+1. Open a terminal and navigate to the `backend` directory.
+2. Start the server using:  
 ```bash
-pip install -r requirements.txt
+uvicorn main:app --reload
 ```
+3. Open your browser and go to `http://127.0.1:8000/api/sentiment`. To confirm its working, you should see a JSON response with the latest sentiment analysis results.
+
+To run the frontend:
+1. Open a new terminal and navigate to the `frontdash` directory.
+2. Start the frontend using:
+```bash
+npm install  # Install dependencies
+npm run dev  # Start the development server
+```
+3. Update the `fetch_url` in `frontdash/src/App.tsx` on line 23 to point to your backend server, e.g., `http://127.0.1:8000/api/sentiment`.
+
+4. Open your browser and go to `http://localhost:5173/`. You should see the sentiment dashboard with the latest analysis results.
 
 ---
 
@@ -134,10 +114,10 @@ pip install -r requirements.txt
 
 **Edgar Deven** – [GitHub](https://github.com/EDGARDEVEN)
 
-Feel free to fork, modify, or contribute!
+Check License for details on contribution.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [CommercialLicense](LICENSE).
