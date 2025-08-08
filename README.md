@@ -114,10 +114,10 @@ npm run dev  # Start the development server
 
 **Edgar Deven** – [GitHub](https://github.com/EDGARDEVEN)
 
-Feel free to fork, modify, or contribute!
+Check License for details on contribution.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [CommercialLicense](LICENSE).
