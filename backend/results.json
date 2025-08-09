@@ -1,5 +1,6 @@
 {
   "headlines": [
+    "Kindiki to Gachagua: Share Terror Information or Be Held Accountable",
     "Mudavadi rallies Malava women to elect trustworthy leader in November 27 by-election",
     "Blood drive launched for Kisumu crash survivors",
     "President Ruto says he won’t be intimidated by ‘Wantam’ sloganeering",
@@ -9,8 +10,7 @@
     "Nairobi Hospital, insurers in talks to end tariff row",
     "Kuccps opens teacher upgrade, Tvet applications",
     "OPINION: Celebrating an icon and champion for children: Dr Phoebe Asiyo",
-    "19 people killed in road accident along Kisumu-Kakamega highway",
-    "IEBC announces dates for all by-elections",
+    "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
@@ -26,14 +26,19 @@
     "end tariff row kuccps opens teacher upgrade",
     "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
-    "dr phoebe asiyo 19 people killed",
+    "held accountable mudavadi rallies malava women",
     "elections across kenya nacada crackdown nets",
     "kisumu crash survivors president ruto says",
-    "kakamega highway iebc announces dates",
     "wetangula infant among five killed",
+    "kisumu road crash six dead",
     "illicit alcohol ruto makes changes"
   ],
   "sentiments": [
+    {
+      "headline": "Kindiki to Gachagua: Share Terror Information or Be Held Accountable",
+      "sentiment": "Negative",
+      "score": -0.296
+    },
     {
       "headline": "Mudavadi rallies Malava women to elect trustworthy leader in November 27 by-election",
       "sentiment": "Positive",
@@ -80,14 +85,9 @@
       "score": 0.8225
     },
     {
-      "headline": "19 people killed in road accident along Kisumu-Kakamega highway",
+      "headline": "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
       "sentiment": "Negative",
-      "score": -0.8225
-    },
-    {
-      "headline": "IEBC announces dates for all by-elections",
-      "sentiment": "Neutral",
-      "score": 0.0
+      "score": -0.7184
     },
     {
       "headline": "20 killed in Kisumu road crash",
