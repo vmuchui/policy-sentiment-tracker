@@ -1,4 +1,5 @@
 Headline,Sentiment,Score
+OPINION: Celebrating an icon and champion for children: Dr Phoebe Asiyo,Positive,0.8225
 19 people killed in road accident along Kisumu-Kakamega highway,Negative,-0.8225
 President Ruto says initiative to compensate protest victims to unite Kenyans,Negative,-0.5106
 CS Murkomen puts on notice police officers engaging in corruption,Positive,0.34
@@ -8,7 +9,6 @@ Kenya targets more disease eliminations after beating sleeping sickness,Negative
 Ghana investigators find ‘black boxes’ of helicopter that crashed and killed two ministers,Negative,-0.6705
 South African court rules that Zambia can repatriate body of ex-president,Neutral,0.0
 Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe,Neutral,0.0
-Kenya’s sleeping sickness no longer a public health threat – What this means,Negative,-0.6808
 Parliament cited for rent seeking in the name of oversight role,Neutral,0.0
 20 killed in Kisumu road crash,Negative,-0.802
 "Six dead in AMREF aircraft crash, three minutes after takeoff",Negative,-0.7906
