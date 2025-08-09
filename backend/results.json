@@ -1,5 +1,7 @@
 {
   "headlines": [
+    "President Ruto says he won’t be intimidated by ‘Wantam’ sloganeering",
+    "IEBC sets November 27 for multiple by-elections across Kenya",
     "NACADA crackdown nets over 7,000 litres of illicit alcohol",
     "Ruto makes changes at Communication Authority of Kenya Board",
     "Nairobi Hospital, insurers in talks to end tariff row",
@@ -8,9 +10,7 @@
     "19 people killed in road accident along Kisumu-Kakamega highway",
     "President Ruto says initiative to compensate protest victims to unite Kenyans",
     "CS Murkomen puts on notice police officers engaging in corruption",
-    "A Resilient Nation: How Kenya Is Shaping a Smarter War Against Terror",
-    "Sakaja confirms 3,500 ‘Green Army’ staff into permanent posts",
-    "Amref reveals names of plane crash victims",
+    "Anti-riot police block Naivasha MP Jayne Kihara's home",
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
@@ -22,18 +22,28 @@
     "Government to disburse HELB loans and Scholarships from August 15"
   ],
   "keywords": [
+    "‘ wantam ’ sloganeering iebc sets november 27",
     "end tariff row kuccps opens teacher upgrade",
     "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
-    "500 ‘ green army ’ staff",
+    "riot police block naivasha mp jayne kihara",
     "dr phoebe asiyo 19 people killed",
+    "elections across kenya nacada crackdown nets",
     "kakamega highway president ruto says initiative",
-    "wetangula infant among five killed",
     "unite kenyans cs murkomen puts",
-    "illicit alcohol ruto makes changes",
-    "permanent posts amref reveals names"
+    "wetangula infant among five killed"
   ],
   "sentiments": [
+    {
+      "headline": "President Ruto says he won’t be intimidated by ‘Wantam’ sloganeering",
+      "sentiment": "Negative",
+      "score": -0.4404
+    },
+    {
+      "headline": "IEBC sets November 27 for multiple by-elections across Kenya",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
     {
       "headline": "NACADA crackdown nets over 7,000 litres of illicit alcohol",
       "sentiment": "Neutral",
@@ -75,19 +85,9 @@
       "score": 0.34
     },
     {
-      "headline": "A Resilient Nation: How Kenya Is Shaping a Smarter War Against Terror",
+      "headline": "Anti-riot police block Naivasha MP Jayne Kihara's home",
       "sentiment": "Negative",
-      "score": -0.6486
-    },
-    {
-      "headline": "Sakaja confirms 3,500 ‘Green Army’ staff into permanent posts",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Amref reveals names of plane crash victims",
-      "sentiment": "Negative",
-      "score": -0.6124
+      "score": -0.4404
     },
     {
       "headline": "20 killed in Kisumu road crash",
