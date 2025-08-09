@@ -1,5 +1,7 @@
 {
   "headlines": [
+    "Mudavadi rallies Malava women to elect trustworthy leader in November 27 by-election",
+    "Blood drive launched for Kisumu crash survivors",
     "President Ruto says he won’t be intimidated by ‘Wantam’ sloganeering",
     "IEBC sets November 27 for multiple by-elections across Kenya",
     "NACADA crackdown nets over 7,000 litres of illicit alcohol",
@@ -8,9 +10,7 @@
     "Kuccps opens teacher upgrade, Tvet applications",
     "OPINION: Celebrating an icon and champion for children: Dr Phoebe Asiyo",
     "19 people killed in road accident along Kisumu-Kakamega highway",
-    "President Ruto says initiative to compensate protest victims to unite Kenyans",
-    "CS Murkomen puts on notice police officers engaging in corruption",
-    "Anti-riot police block Naivasha MP Jayne Kihara's home",
+    "IEBC announces dates for all by-elections",
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
@@ -26,14 +26,24 @@
     "end tariff row kuccps opens teacher upgrade",
     "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
-    "riot police block naivasha mp jayne kihara",
     "dr phoebe asiyo 19 people killed",
     "elections across kenya nacada crackdown nets",
-    "kakamega highway president ruto says initiative",
-    "unite kenyans cs murkomen puts",
-    "wetangula infant among five killed"
+    "kisumu crash survivors president ruto says",
+    "kakamega highway iebc announces dates",
+    "wetangula infant among five killed",
+    "illicit alcohol ruto makes changes"
   ],
   "sentiments": [
+    {
+      "headline": "Mudavadi rallies Malava women to elect trustworthy leader in November 27 by-election",
+      "sentiment": "Positive",
+      "score": 0.5574
+    },
+    {
+      "headline": "Blood drive launched for Kisumu crash survivors",
+      "sentiment": "Negative",
+      "score": -0.296
+    },
     {
       "headline": "President Ruto says he won’t be intimidated by ‘Wantam’ sloganeering",
       "sentiment": "Negative",
@@ -75,19 +85,9 @@
       "score": -0.8225
     },
     {
-      "headline": "President Ruto says initiative to compensate protest victims to unite Kenyans",
-      "sentiment": "Negative",
-      "score": -0.5106
-    },
-    {
-      "headline": "CS Murkomen puts on notice police officers engaging in corruption",
-      "sentiment": "Positive",
-      "score": 0.34
-    },
-    {
-      "headline": "Anti-riot police block Naivasha MP Jayne Kihara's home",
-      "sentiment": "Negative",
-      "score": -0.4404
+      "headline": "IEBC announces dates for all by-elections",
+      "sentiment": "Neutral",
+      "score": 0.0
     },
     {
       "headline": "20 killed in Kisumu road crash",
