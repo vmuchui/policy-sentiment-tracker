@@ -1,5 +1,6 @@
 {
   "headlines": [
+    "Govt Assures Civil Servants of Continuous Healthcare Amid Payment Dispute",
     "Kindiki to Gachagua: Share Terror Information or Be Held Accountable",
     "Mudavadi rallies Malava women to elect trustworthy leader in November 27 by-election",
     "Blood drive launched for Kisumu crash survivors",
@@ -9,7 +10,7 @@
     "Ruto makes changes at Communication Authority of Kenya Board",
     "Nairobi Hospital, insurers in talks to end tariff row",
     "Kuccps opens teacher upgrade, Tvet applications",
-    "OPINION: Celebrating an icon and champion for children: Dr Phoebe Asiyo",
+    "Insensitively mute: Chirchir silent as Kenyans die on roads",
     "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
@@ -18,22 +19,26 @@
     "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
     "Harambee Stars stun DR Congo to kick off CHAN debut with a win",
     "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso",
-    "Regional blocs merge peace missions for DRC",
-    "Government to disburse HELB loans and Scholarships from August 15"
+    "Regional blocs merge peace missions for DRC"
   ],
   "keywords": [
     "‘ wantam ’ sloganeering iebc sets november 27",
     "end tariff row kuccps opens teacher upgrade",
-    "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
+    "burkina faso regional blocs merge peace missions",
     "held accountable mudavadi rallies malava women",
+    "continuous healthcare amid payment dispute kindiki",
     "elections across kenya nacada crackdown nets",
     "kisumu crash survivors president ruto says",
-    "wetangula infant among five killed",
-    "kisumu road crash six dead",
-    "illicit alcohol ruto makes changes"
+    "terrorism claims ', dp kindiki",
+    "wetangula infant among five killed"
   ],
   "sentiments": [
+    {
+      "headline": "Govt Assures Civil Servants of Continuous Healthcare Amid Payment Dispute",
+      "sentiment": "Negative",
+      "score": -0.1027
+    },
     {
       "headline": "Kindiki to Gachagua: Share Terror Information or Be Held Accountable",
       "sentiment": "Negative",
@@ -80,9 +85,9 @@
       "score": 0.0
     },
     {
-      "headline": "OPINION: Celebrating an icon and champion for children: Dr Phoebe Asiyo",
-      "sentiment": "Positive",
-      "score": 0.8225
+      "headline": "Insensitively mute: Chirchir silent as Kenyans die on roads",
+      "sentiment": "Negative",
+      "score": -0.5994
     },
     {
       "headline": "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
@@ -128,11 +133,6 @@
       "headline": "Regional blocs merge peace missions for DRC",
       "sentiment": "Positive",
       "score": 0.5423
-    },
-    {
-      "headline": "Government to disburse HELB loans and Scholarships from August 15",
-      "sentiment": "Neutral",
-      "score": 0.0
     }
   ]
 }
