@@ -1,16 +1,16 @@
 {
   "headlines": [
+    "NACADA crackdown nets over 7,000 litres of illicit alcohol",
+    "Ruto makes changes at Communication Authority of Kenya Board",
+    "Nairobi Hospital, insurers in talks to end tariff row",
+    "Kuccps opens teacher upgrade, Tvet applications",
     "OPINION: Celebrating an icon and champion for children: Dr Phoebe Asiyo",
     "19 people killed in road accident along Kisumu-Kakamega highway",
     "President Ruto says initiative to compensate protest victims to unite Kenyans",
     "CS Murkomen puts on notice police officers engaging in corruption",
     "A Resilient Nation: How Kenya Is Shaping a Smarter War Against Terror",
     "Sakaja confirms 3,500 ‘Green Army’ staff into permanent posts",
-    "Kenya targets more disease eliminations after beating sleeping sickness",
-    "Ghana investigators find ‘black boxes’ of helicopter that crashed and killed two ministers",
-    "South African court rules that Zambia can repatriate body of ex-president",
-    "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
-    "Parliament cited for rent seeking in the name of oversight role",
+    "Amref reveals names of plane crash victims",
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
@@ -22,18 +22,38 @@
     "Government to disburse HELB loans and Scholarships from August 15"
   ],
   "keywords": [
-    "beating sleeping sickness ghana investigators find ‘ black boxes ’",
-    "insurances amid sha portal probe parliament cited",
+    "end tariff row kuccps opens teacher upgrade",
     "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
-    "killed two ministers south african court rules",
     "500 ‘ green army ’ staff",
     "dr phoebe asiyo 19 people killed",
     "kakamega highway president ruto says initiative",
     "wetangula infant among five killed",
-    "unite kenyans cs murkomen puts"
+    "unite kenyans cs murkomen puts",
+    "illicit alcohol ruto makes changes",
+    "permanent posts amref reveals names"
   ],
   "sentiments": [
+    {
+      "headline": "NACADA crackdown nets over 7,000 litres of illicit alcohol",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Ruto makes changes at Communication Authority of Kenya Board",
+      "sentiment": "Positive",
+      "score": 0.0772
+    },
+    {
+      "headline": "Nairobi Hospital, insurers in talks to end tariff row",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Kuccps opens teacher upgrade, Tvet applications",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
     {
       "headline": "OPINION: Celebrating an icon and champion for children: Dr Phoebe Asiyo",
       "sentiment": "Positive",
@@ -65,29 +85,9 @@
       "score": 0.0
     },
     {
-      "headline": "Kenya targets more disease eliminations after beating sleeping sickness",
+      "headline": "Amref reveals names of plane crash victims",
       "sentiment": "Negative",
-      "score": -0.4588
-    },
-    {
-      "headline": "Ghana investigators find ‘black boxes’ of helicopter that crashed and killed two ministers",
-      "sentiment": "Negative",
-      "score": -0.6705
-    },
-    {
-      "headline": "South African court rules that Zambia can repatriate body of ex-president",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Parliament cited for rent seeking in the name of oversight role",
-      "sentiment": "Neutral",
-      "score": 0.0
+      "score": -0.6124
     },
     {
       "headline": "20 killed in Kisumu road crash",
