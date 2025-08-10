@@ -1,5 +1,6 @@
 {
   "headlines": [
+    "Energy PS calls for tighter security to surge in Power Vandalism",
     "Govt Assures Civil Servants of Continuous Healthcare Amid Payment Dispute",
     "Kindiki to Gachagua: Share Terror Information or Be Held Accountable",
     "Mudavadi rallies Malava women to elect trustworthy leader in November 27 by-election",
@@ -9,7 +10,6 @@
     "NACADA crackdown nets over 7,000 litres of illicit alcohol",
     "Ruto makes changes at Communication Authority of Kenya Board",
     "Nairobi Hospital, insurers in talks to end tariff row",
-    "Kuccps opens teacher upgrade, Tvet applications",
     "Insensitively mute: Chirchir silent as Kenyans die on roads",
     "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
@@ -23,17 +23,22 @@
   ],
   "keywords": [
     "‘ wantam ’ sloganeering iebc sets november 27",
-    "end tariff row kuccps opens teacher upgrade",
     "eldoret highway harambee stars stun dr congo",
     "burkina faso regional blocs merge peace missions",
+    "power vandalism govt assures civil servants",
     "held accountable mudavadi rallies malava women",
     "continuous healthcare amid payment dispute kindiki",
     "elections across kenya nacada crackdown nets",
     "kisumu crash survivors president ruto says",
     "terrorism claims ', dp kindiki",
-    "wetangula infant among five killed"
+    "end tariff row insensitively mute"
   ],
   "sentiments": [
+    {
+      "headline": "Energy PS calls for tighter security to surge in Power Vandalism",
+      "sentiment": "Positive",
+      "score": 0.5423
+    },
     {
       "headline": "Govt Assures Civil Servants of Continuous Healthcare Amid Payment Dispute",
       "sentiment": "Negative",
@@ -76,11 +81,6 @@
     },
     {
       "headline": "Nairobi Hospital, insurers in talks to end tariff row",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Kuccps opens teacher upgrade, Tvet applications",
       "sentiment": "Neutral",
       "score": 0.0
     },
