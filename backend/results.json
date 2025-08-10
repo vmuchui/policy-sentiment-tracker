@@ -1,16 +1,16 @@
 {
   "headlines": [
+    "Pakistan Misses IMF Social Spending Target as Key Provinces Fall Short",
+    "Bangladesh Marks Hasina’s Ouster Amid Hopes and Rising Tensions, legal challenge",
+    "India Raises Concerns Over China’s Mega Dam on Brahmaputra Headwaters",
+    "Wetang’ula tells ODM MPs to fall in line after Raila backs Ruto re-election bid",
+    "Over 600 pilgrims hospitalised due to chlorine gas leak in Iraq",
+    "Trump nominates ex-Fox News host Tammy Bruce as deputy UN ambassador",
     "Man suspected of stealing from tourist in Maasai Mara arrested",
     "Sifuna faults IEBC decision to hold by-elections on Nov 27",
     "Second boxer from Tokyo event dies from brain injury",
     "Foreign criminals to face deportation after sentencing under new plans",
-    "Two dead, several injured after accident along Mai Mahiu-Narok Road",
-    "Mohamed Salah calls out Uefa over wording of Palestinian player tribute",
-    "Ukraine’s European allies say peace talks must include Kyiv",
-    "Key city roads to remain closed ahead of Kenya-Morocco CHAN duel",
-    "Energy PS calls for tighter security to surge in Power Vandalism",
-    "Govt Assures Civil Servants of Continuous Healthcare Amid Payment Dispute",
-    "Baby's first cry, father's tears: Rare birth complication tears Kitengela family apart",
+    "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
     "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
@@ -22,18 +22,48 @@
     "Regional blocs merge peace missions for DRC"
   ],
   "keywords": [
-    "european allies say peace talks must include kyiv key city roads",
-    "burkina faso regional blocs merge peace missions",
+    "key provinces fall short bangladesh marks hasina ’",
+    "brahmaputra headwaters wetang ’ ula tells odm mps",
     "maasai mara arrested sifuna faults iebc decision",
+    "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
-    "rare birth complication tears kitengela family apart",
-    "power vandalism govt assures civil servants",
-    "continuous healthcare amid payment dispute baby",
-    "morocco chan duel energy ps calls",
-    "narok road mohamed salah calls",
-    "terrorism claims ', dp kindiki"
+    "pakistan misses imf social spending target",
+    "man harambee stars stun morocco",
+    "terrorism claims ', dp kindiki",
+    "legal challenge india raises concerns",
+    "fox news host tammy bruce"
   ],
   "sentiments": [
+    {
+      "headline": "Pakistan Misses IMF Social Spending Target as Key Provinces Fall Short",
+      "sentiment": "Negative",
+      "score": -0.2263
+    },
+    {
+      "headline": "Bangladesh Marks Hasina’s Ouster Amid Hopes and Rising Tensions, legal challenge",
+      "sentiment": "Positive",
+      "score": 0.2263
+    },
+    {
+      "headline": "India Raises Concerns Over China’s Mega Dam on Brahmaputra Headwaters",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Wetang’ula tells ODM MPs to fall in line after Raila backs Ruto re-election bid",
+      "sentiment": "Negative",
+      "score": -0.0516
+    },
+    {
+      "headline": "Over 600 pilgrims hospitalised due to chlorine gas leak in Iraq",
+      "sentiment": "Negative",
+      "score": -0.34
+    },
+    {
+      "headline": "Trump nominates ex-Fox News host Tammy Bruce as deputy UN ambassador",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
     {
       "headline": "Man suspected of stealing from tourist in Maasai Mara arrested",
       "sentiment": "Negative",
@@ -55,39 +85,9 @@
       "score": -0.6486
     },
     {
-      "headline": "Two dead, several injured after accident along Mai Mahiu-Narok Road",
-      "sentiment": "Negative",
-      "score": -0.8779
-    },
-    {
-      "headline": "Mohamed Salah calls out Uefa over wording of Palestinian player tribute",
+      "headline": "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
       "sentiment": "Neutral",
       "score": 0.0
-    },
-    {
-      "headline": "Ukraine’s European allies say peace talks must include Kyiv",
-      "sentiment": "Positive",
-      "score": 0.5423
-    },
-    {
-      "headline": "Key city roads to remain closed ahead of Kenya-Morocco CHAN duel",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Energy PS calls for tighter security to surge in Power Vandalism",
-      "sentiment": "Positive",
-      "score": 0.5423
-    },
-    {
-      "headline": "Govt Assures Civil Servants of Continuous Healthcare Amid Payment Dispute",
-      "sentiment": "Negative",
-      "score": -0.1027
-    },
-    {
-      "headline": "Baby's first cry, father's tears: Rare birth complication tears Kitengela family apart",
-      "sentiment": "Negative",
-      "score": -0.7096
     },
     {
       "headline": "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
