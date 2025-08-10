@@ -10,6 +10,7 @@
     "Man suspected of stealing from tourist in Maasai Mara arrested",
     "Sifuna faults IEBC decision to hold by-elections on Nov 27",
     "Second boxer from Tokyo event dies from brain injury",
+    "Ruto's policies end in confusion, resistance then damage control",
     "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
     "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
@@ -18,20 +19,19 @@
     "Senate, MPs rivalry plays out again as Khalwale hits out at Wetangula",
     "Infant among five killed in grisly crash on Nakuru-Eldoret Highway",
     "Harambee Stars stun DR Congo to kick off CHAN debut with a win",
-    "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso",
-    "Regional blocs merge peace missions for DRC"
+    "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso"
   ],
   "keywords": [
     "nato ally status pakistan misses imf social spending target",
     "key provinces fall short bangladesh marks hasina ’",
     "brahmaputra headwaters wetang ’ ula tells odm mps",
     "maasai mara arrested sifuna faults iebc decision",
-    "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
     "man harambee stars stun morocco",
     "terrorism claims ', dp kindiki",
     "legal challenge india raises concerns",
-    "fox news host tammy bruce"
+    "fox news host tammy bruce",
+    "deputy un ambassador man suspected"
   ],
   "sentiments": [
     {
@@ -85,6 +85,11 @@
       "score": -0.4215
     },
     {
+      "headline": "Ruto's policies end in confusion, resistance then damage control",
+      "sentiment": "Negative",
+      "score": -0.6597
+    },
+    {
       "headline": "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
       "sentiment": "Neutral",
       "score": 0.0
@@ -128,11 +133,6 @@
       "headline": "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso",
       "sentiment": "Neutral",
       "score": 0.0
-    },
-    {
-      "headline": "Regional blocs merge peace missions for DRC",
-      "sentiment": "Positive",
-      "score": 0.5423
     }
   ]
 }
