@@ -1,16 +1,16 @@
 {
   "headlines": [
+    "Foreign criminals to face deportation after sentencing under new plans",
+    "Two dead, several injured after accident along Mai Mahiu-Narok Road",
+    "Mohamed Salah calls out Uefa over wording of Palestinian player tribute",
+    "Ukraine’s European allies say peace talks must include Kyiv",
     "Key city roads to remain closed ahead of Kenya-Morocco CHAN duel",
     "Energy PS calls for tighter security to surge in Power Vandalism",
     "Govt Assures Civil Servants of Continuous Healthcare Amid Payment Dispute",
     "Kindiki to Gachagua: Share Terror Information or Be Held Accountable",
     "Mudavadi rallies Malava women to elect trustworthy leader in November 27 by-election",
     "Blood drive launched for Kisumu crash survivors",
-    "President Ruto says he won’t be intimidated by ‘Wantam’ sloganeering",
-    "IEBC sets November 27 for multiple by-elections across Kenya",
-    "NACADA crackdown nets over 7,000 litres of illicit alcohol",
-    "Ruto makes changes at Communication Authority of Kenya Board",
-    "Insensitively mute: Chirchir silent as Kenyans die on roads",
+    "November by-elections set stage for Ruto, Gachagua, Raila showdown",
     "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
@@ -22,18 +22,38 @@
     "Regional blocs merge peace missions for DRC"
   ],
   "keywords": [
-    "‘ wantam ’ sloganeering iebc sets november 27",
-    "eldoret highway harambee stars stun dr congo",
+    "european allies say peace talks must include kyiv key city roads",
     "burkina faso regional blocs merge peace missions",
+    "eldoret highway harambee stars stun dr congo",
     "power vandalism govt assures civil servants",
     "held accountable mudavadi rallies malava women",
     "continuous healthcare amid payment dispute kindiki",
     "morocco chan duel energy ps calls",
-    "elections across kenya nacada crackdown nets",
-    "kisumu crash survivors president ruto says",
-    "terrorism claims ', dp kindiki"
+    "terrorism claims ', dp kindiki",
+    "narok road mohamed salah calls",
+    "palestinian player tribute ukraine ’"
   ],
   "sentiments": [
+    {
+      "headline": "Foreign criminals to face deportation after sentencing under new plans",
+      "sentiment": "Negative",
+      "score": -0.6486
+    },
+    {
+      "headline": "Two dead, several injured after accident along Mai Mahiu-Narok Road",
+      "sentiment": "Negative",
+      "score": -0.8779
+    },
+    {
+      "headline": "Mohamed Salah calls out Uefa over wording of Palestinian player tribute",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Ukraine’s European allies say peace talks must include Kyiv",
+      "sentiment": "Positive",
+      "score": 0.5423
+    },
     {
       "headline": "Key city roads to remain closed ahead of Kenya-Morocco CHAN duel",
       "sentiment": "Neutral",
@@ -65,29 +85,9 @@
       "score": -0.296
     },
     {
-      "headline": "President Ruto says he won’t be intimidated by ‘Wantam’ sloganeering",
-      "sentiment": "Negative",
-      "score": -0.4404
-    },
-    {
-      "headline": "IEBC sets November 27 for multiple by-elections across Kenya",
+      "headline": "November by-elections set stage for Ruto, Gachagua, Raila showdown",
       "sentiment": "Neutral",
       "score": 0.0
-    },
-    {
-      "headline": "NACADA crackdown nets over 7,000 litres of illicit alcohol",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Ruto makes changes at Communication Authority of Kenya Board",
-      "sentiment": "Positive",
-      "score": 0.0772
-    },
-    {
-      "headline": "Insensitively mute: Chirchir silent as Kenyans die on roads",
-      "sentiment": "Negative",
-      "score": -0.5994
     },
     {
       "headline": "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
