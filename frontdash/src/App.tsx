@@ -11,12 +11,11 @@ import {
 } from "chart.js";
 import { Pie } from "react-chartjs-2";
 import jsPDF from "jspdf";
-import "jspdf-autotable";
+import { autoTable} from "jspdf-autotable";
 import "./index.css";
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 
-// -- Types ---------------------------------------------------
 type Sentiment = "Positive" | "Neutral" | "Negative";
 
 interface SentimentItem {
@@ -147,7 +146,8 @@ const App: React.FC = () => {
   const exportPDF = () => {
     const doc = new jsPDF();
     doc.text("Filtered Headlines", 14, 20);
-    (doc as any).autoTable({
+    // (doc as any).
+    autoTable(doc,{
       head: [["Headline", "Sentiment", "Score"]],
       body: filtered.map((r) => [r.headline, r.sentiment, r.score.toFixed(4)]),
       startY: 28,
