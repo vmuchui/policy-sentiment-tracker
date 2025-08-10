@@ -1,5 +1,8 @@
 {
   "headlines": [
+    "Man suspected of stealing from tourist in Maasai Mara arrested",
+    "Sifuna faults IEBC decision to hold by-elections on Nov 27",
+    "Second boxer from Tokyo event dies from brain injury",
     "Foreign criminals to face deportation after sentencing under new plans",
     "Two dead, several injured after accident along Mai Mahiu-Narok Road",
     "Mohamed Salah calls out Uefa over wording of Palestinian player tribute",
@@ -7,10 +10,7 @@
     "Key city roads to remain closed ahead of Kenya-Morocco CHAN duel",
     "Energy PS calls for tighter security to surge in Power Vandalism",
     "Govt Assures Civil Servants of Continuous Healthcare Amid Payment Dispute",
-    "Kindiki to Gachagua: Share Terror Information or Be Held Accountable",
-    "Mudavadi rallies Malava women to elect trustworthy leader in November 27 by-election",
-    "Blood drive launched for Kisumu crash survivors",
-    "November by-elections set stage for Ruto, Gachagua, Raila showdown",
+    "Baby's first cry, father's tears: Rare birth complication tears Kitengela family apart",
     "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
@@ -24,16 +24,31 @@
   "keywords": [
     "european allies say peace talks must include kyiv key city roads",
     "burkina faso regional blocs merge peace missions",
+    "maasai mara arrested sifuna faults iebc decision",
     "eldoret highway harambee stars stun dr congo",
+    "rare birth complication tears kitengela family apart",
     "power vandalism govt assures civil servants",
-    "held accountable mudavadi rallies malava women",
-    "continuous healthcare amid payment dispute kindiki",
+    "continuous healthcare amid payment dispute baby",
     "morocco chan duel energy ps calls",
-    "terrorism claims ', dp kindiki",
     "narok road mohamed salah calls",
-    "palestinian player tribute ukraine ’"
+    "terrorism claims ', dp kindiki"
   ],
   "sentiments": [
+    {
+      "headline": "Man suspected of stealing from tourist in Maasai Mara arrested",
+      "sentiment": "Negative",
+      "score": -0.8271
+    },
+    {
+      "headline": "Sifuna faults IEBC decision to hold by-elections on Nov 27",
+      "sentiment": "Negative",
+      "score": -0.4767
+    },
+    {
+      "headline": "Second boxer from Tokyo event dies from brain injury",
+      "sentiment": "Negative",
+      "score": -0.4215
+    },
     {
       "headline": "Foreign criminals to face deportation after sentencing under new plans",
       "sentiment": "Negative",
@@ -70,24 +85,9 @@
       "score": -0.1027
     },
     {
-      "headline": "Kindiki to Gachagua: Share Terror Information or Be Held Accountable",
+      "headline": "Baby's first cry, father's tears: Rare birth complication tears Kitengela family apart",
       "sentiment": "Negative",
-      "score": -0.296
-    },
-    {
-      "headline": "Mudavadi rallies Malava women to elect trustworthy leader in November 27 by-election",
-      "sentiment": "Positive",
-      "score": 0.5574
-    },
-    {
-      "headline": "Blood drive launched for Kisumu crash survivors",
-      "sentiment": "Negative",
-      "score": -0.296
-    },
-    {
-      "headline": "November by-elections set stage for Ruto, Gachagua, Raila showdown",
-      "sentiment": "Neutral",
-      "score": 0.0
+      "score": -0.7096
     },
     {
       "headline": "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
