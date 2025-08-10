@@ -1,5 +1,6 @@
 {
   "headlines": [
+    "Key city roads to remain closed ahead of Kenya-Morocco CHAN duel",
     "Energy PS calls for tighter security to surge in Power Vandalism",
     "Govt Assures Civil Servants of Continuous Healthcare Amid Payment Dispute",
     "Kindiki to Gachagua: Share Terror Information or Be Held Accountable",
@@ -9,7 +10,6 @@
     "IEBC sets November 27 for multiple by-elections across Kenya",
     "NACADA crackdown nets over 7,000 litres of illicit alcohol",
     "Ruto makes changes at Communication Authority of Kenya Board",
-    "Nairobi Hospital, insurers in talks to end tariff row",
     "Insensitively mute: Chirchir silent as Kenyans die on roads",
     "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
@@ -28,12 +28,17 @@
     "power vandalism govt assures civil servants",
     "held accountable mudavadi rallies malava women",
     "continuous healthcare amid payment dispute kindiki",
+    "morocco chan duel energy ps calls",
     "elections across kenya nacada crackdown nets",
     "kisumu crash survivors president ruto says",
-    "terrorism claims ', dp kindiki",
-    "end tariff row insensitively mute"
+    "terrorism claims ', dp kindiki"
   ],
   "sentiments": [
+    {
+      "headline": "Key city roads to remain closed ahead of Kenya-Morocco CHAN duel",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
     {
       "headline": "Energy PS calls for tighter security to surge in Power Vandalism",
       "sentiment": "Positive",
@@ -78,11 +83,6 @@
       "headline": "Ruto makes changes at Communication Authority of Kenya Board",
       "sentiment": "Positive",
       "score": 0.0772
-    },
-    {
-      "headline": "Nairobi Hospital, insurers in talks to end tariff row",
-      "sentiment": "Neutral",
-      "score": 0.0
     },
     {
       "headline": "Insensitively mute: Chirchir silent as Kenyans die on roads",
