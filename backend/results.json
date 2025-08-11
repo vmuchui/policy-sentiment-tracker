@@ -1,16 +1,16 @@
 {
   "headlines": [
+    "Côte d’Ivoire’s sacred talking drum is coming home: lessons from Kenya on how it could transform lives",
+    "Experts urge strengthened China-India ties to inject momentum in the Global South",
+    "Mbadi reaffirms Govt’s commitment to compensate protest victims",
+    "DIG Lagat says court cannot order his prosecution over Albert Ojwang’s death",
     "Parliament Cancels Recruitment of 38 Security Wardens",
     "Koome touts automation success as she hosts Ethiopia’s Supreme Court",
     "Australia to recognise Palestinian state in September",
     "Over-70s face driving ban for failing eye tests",
     "Capital FM, China Daily Africa Ink Content Partnership to Expand Global Coverage",
     "Wigan to leave Kenya end of Aug after promotion to London post",
-    "Trump demands homeless people ‘immediately’ move out of Washington DC",
-    "Mars rock found in Niger sells for millions in New York – now the country wants answers",
-    "HESBON HANSEN: CHAN, McCarthy, and the Theatre of National Unity",
-    "Web System To Curb Corruption Takes The Day at YSK’s 8th National STEM Exhibition",
-    "Muturi slams Ruto's 'boda boda economy', calls it poverty with a helmet",
+    "Ruto dangles Sh6m bounty, house in Harambee Stars' Zambia clash",
     "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
     "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
@@ -22,18 +22,38 @@
     "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso"
   ],
   "keywords": [
-    "london post trump demands homeless people ‘ immediately ’ move",
+    "compensate protest victims dig lagat says court cannot order",
     "38 security wardens koome touts automation success",
+    "could transform lives experts urge strengthened china",
     "eldoret highway harambee stars stun dr congo",
-    "8th national stem exhibition muturi slams ruto",
     "china daily africa ink content partnership",
+    "london post ruto dangles sh6m bounty",
+    "global south mbadi reaffirms govt ’",
     "man harambee stars stun morocco",
-    "washington dc mars rock found",
     "terrorism claims ', dp kindiki",
-    "failing eye tests capital fm",
-    "country wants answers hesbon hansen"
+    "failing eye tests capital fm"
   ],
   "sentiments": [
+    {
+      "headline": "Côte d’Ivoire’s sacred talking drum is coming home: lessons from Kenya on how it could transform lives",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Experts urge strengthened China-India ties to inject momentum in the Global South",
+      "sentiment": "Positive",
+      "score": 0.4215
+    },
+    {
+      "headline": "Mbadi reaffirms Govt’s commitment to compensate protest victims",
+      "sentiment": "Negative",
+      "score": -0.1779
+    },
+    {
+      "headline": "DIG Lagat says court cannot order his prosecution over Albert Ojwang’s death",
+      "sentiment": "Negative",
+      "score": -0.312
+    },
     {
       "headline": "Parliament Cancels Recruitment of 38 Security Wardens",
       "sentiment": "Positive",
@@ -65,29 +85,9 @@
       "score": -0.0516
     },
     {
-      "headline": "Trump demands homeless people ‘immediately’ move out of Washington DC",
+      "headline": "Ruto dangles Sh6m bounty, house in Harambee Stars' Zambia clash",
       "sentiment": "Neutral",
       "score": 0.0
-    },
-    {
-      "headline": "Mars rock found in Niger sells for millions in New York – now the country wants answers",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "HESBON HANSEN: CHAN, McCarthy, and the Theatre of National Unity",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Web System To Curb Corruption Takes The Day at YSK’s 8th National STEM Exhibition",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Muturi slams Ruto's 'boda boda economy', calls it poverty with a helmet",
-      "sentiment": "Negative",
-      "score": -0.5106
     },
     {
       "headline": "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
