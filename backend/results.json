@@ -1,16 +1,16 @@
 {
   "headlines": [
+    "Parliament Cancels Recruitment of 38 Security Wardens",
+    "Koome touts automation success as she hosts Ethiopia’s Supreme Court",
+    "Australia to recognise Palestinian state in September",
+    "Over-70s face driving ban for failing eye tests",
+    "Capital FM, China Daily Africa Ink Content Partnership to Expand Global Coverage",
+    "Wigan to leave Kenya end of Aug after promotion to London post",
     "Trump demands homeless people ‘immediately’ move out of Washington DC",
     "Mars rock found in Niger sells for millions in New York – now the country wants answers",
     "HESBON HANSEN: CHAN, McCarthy, and the Theatre of National Unity",
     "Web System To Curb Corruption Takes The Day at YSK’s 8th National STEM Exhibition",
-    "Expansion of Rironi-Mau Summit Road delayed to october, Ruto confirms",
-    "Prof Mutua defends govt 2017-2025;Protest Compensation Plan, Accuses Opposition of Hypocrisy",
-    "Gachagua Offers to Testify Before US Senate on Kenya’s Non-NATO Ally Status",
-    "Pakistan Misses IMF Social Spending Target as Key Provinces Fall Short",
-    "Bangladesh Marks Hasina’s Ouster Amid Hopes and Rising Tensions, legal challenge",
-    "India Raises Concerns Over China’s Mega Dam on Brahmaputra Headwaters",
-    "How Ruto's policies end in confusion and resistance",
+    "Muturi slams Ruto's 'boda boda economy', calls it poverty with a helmet",
     "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
     "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
@@ -22,18 +22,48 @@
     "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso"
   ],
   "keywords": [
-    "nato ally status pakistan misses imf social spending target",
-    "trump demands homeless people ‘ immediately ’ move",
-    "key provinces fall short bangladesh marks hasina ’",
+    "london post trump demands homeless people ‘ immediately ’ move",
+    "38 security wardens koome touts automation success",
     "eldoret highway harambee stars stun dr congo",
-    "ruto confirms prof mutua defends govt 2017",
+    "8th national stem exhibition muturi slams ruto",
+    "china daily africa ink content partnership",
     "man harambee stars stun morocco",
     "washington dc mars rock found",
     "terrorism claims ', dp kindiki",
-    "legal challenge india raises concerns",
+    "failing eye tests capital fm",
     "country wants answers hesbon hansen"
   ],
   "sentiments": [
+    {
+      "headline": "Parliament Cancels Recruitment of 38 Security Wardens",
+      "sentiment": "Positive",
+      "score": 0.128
+    },
+    {
+      "headline": "Koome touts automation success as she hosts Ethiopia’s Supreme Court",
+      "sentiment": "Positive",
+      "score": 0.802
+    },
+    {
+      "headline": "Australia to recognise Palestinian state in September",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Over-70s face driving ban for failing eye tests",
+      "sentiment": "Negative",
+      "score": -0.7845
+    },
+    {
+      "headline": "Capital FM, China Daily Africa Ink Content Partnership to Expand Global Coverage",
+      "sentiment": "Positive",
+      "score": 0.3182
+    },
+    {
+      "headline": "Wigan to leave Kenya end of Aug after promotion to London post",
+      "sentiment": "Negative",
+      "score": -0.0516
+    },
     {
       "headline": "Trump demands homeless people ‘immediately’ move out of Washington DC",
       "sentiment": "Neutral",
@@ -55,39 +85,9 @@
       "score": 0.0
     },
     {
-      "headline": "Expansion of Rironi-Mau Summit Road delayed to october, Ruto confirms",
+      "headline": "Muturi slams Ruto's 'boda boda economy', calls it poverty with a helmet",
       "sentiment": "Negative",
-      "score": -0.2263
-    },
-    {
-      "headline": "Prof Mutua defends govt 2017-2025;Protest Compensation Plan, Accuses Opposition of Hypocrisy",
-      "sentiment": "Negative",
-      "score": -0.34
-    },
-    {
-      "headline": "Gachagua Offers to Testify Before US Senate on Kenya’s Non-NATO Ally Status",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Pakistan Misses IMF Social Spending Target as Key Provinces Fall Short",
-      "sentiment": "Negative",
-      "score": -0.2263
-    },
-    {
-      "headline": "Bangladesh Marks Hasina’s Ouster Amid Hopes and Rising Tensions, legal challenge",
-      "sentiment": "Positive",
-      "score": 0.2263
-    },
-    {
-      "headline": "India Raises Concerns Over China’s Mega Dam on Brahmaputra Headwaters",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "How Ruto's policies end in confusion and resistance",
-      "sentiment": "Negative",
-      "score": -0.296
+      "score": -0.5106
     },
     {
       "headline": "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
