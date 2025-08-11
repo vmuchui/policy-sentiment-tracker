@@ -10,10 +10,7 @@
     "South African court rules that Zambia can repatriate body of ex-president",
     "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
     "Kenya’s sleeping sickness no longer a public health threat – What this means",
-<<<<<<< HEAD
-=======
     "Parliament cited for rent seeking in the name of oversight role",
->>>>>>> 4cb191d452cb2c29a5fbbdc5659ae1ebd782127d
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
@@ -22,22 +19,13 @@
     "Harambee Stars stun DR Congo to kick off CHAN debut with a win",
     "PICTURES: Tanzania roars to victory with 2-0 against Burkina Faso",
     "Regional blocs merge peace missions for DRC",
-    "Government to disburse HELB loans and Scholarships from August 15",
-    "Journalist gives five photos, video to prove who killed Rex Masai"
+    "Government to disburse HELB loans and Scholarships from August 15"
   ],
   "keywords": [
-    "beating sleeping sickness ghana investigators find ‘ black boxes ’",
-    "burkina faso regional blocs merge peace missions",
+    "compensate protest victims dig lagat says court cannot order",
+    "38 security wardens koome touts automation success",
+    "could transform lives experts urge strengthened china",
     "eldoret highway harambee stars stun dr congo",
-<<<<<<< HEAD
-    "insurances amid sha portal probe kenya ’",
-    "killed two ministers south african court rules",
-    "500 ‘ green army ’ staff",
-    "august 15 journalist gives five photos",
-    "kakamega highway president ruto says initiative",
-    "unite kenyans cs murkomen puts",
-    "wetangula infant among five killed"
-=======
     "killed two ministers south african court rules",
     "insurances amid sha portal probe kenya ’",
     "500 ‘ green army ’ staff",
@@ -45,62 +33,74 @@
     "unite kenyans cs murkomen puts",
     "wetangula infant among five killed",
     "kisumu road crash six dead"
->>>>>>> 4cb191d452cb2c29a5fbbdc5659ae1ebd782127d
   ],
   "sentiments": [
     {
-      "headline": "19 people killed in road accident along Kisumu-Kakamega highway",
-      "sentiment": "Negative",
-      "score": -0.8225
+      "headline": "Côte d’Ivoire’s sacred talking drum is coming home: lessons from Kenya on how it could transform lives",
+      "sentiment": "Neutral",
+      "score": 0.0
     },
     {
-      "headline": "President Ruto says initiative to compensate protest victims to unite Kenyans",
-      "sentiment": "Negative",
-      "score": -0.5106
-    },
-    {
-      "headline": "CS Murkomen puts on notice police officers engaging in corruption",
+      "headline": "Experts urge strengthened China-India ties to inject momentum in the Global South",
       "sentiment": "Positive",
-      "score": 0.34
+      "score": 0.4215
     },
     {
-      "headline": "A Resilient Nation: How Kenya Is Shaping a Smarter War Against Terror",
+      "headline": "Mbadi reaffirms Govt’s commitment to compensate protest victims",
       "sentiment": "Negative",
-      "score": -0.6486
+      "score": -0.1779
     },
     {
-      "headline": "Sakaja confirms 3,500 ‘Green Army’ staff into permanent posts",
+      "headline": "DIG Lagat says court cannot order his prosecution over Albert Ojwang’s death",
+      "sentiment": "Negative",
+      "score": -0.312
+    },
+    {
+      "headline": "Parliament Cancels Recruitment of 38 Security Wardens",
+      "sentiment": "Positive",
+      "score": 0.128
+    },
+    {
+      "headline": "Koome touts automation success as she hosts Ethiopia’s Supreme Court",
+      "sentiment": "Positive",
+      "score": 0.802
+    },
+    {
+      "headline": "Australia to recognise Palestinian state in September",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Kenya targets more disease eliminations after beating sleeping sickness",
+      "headline": "Over-70s face driving ban for failing eye tests",
       "sentiment": "Negative",
-      "score": -0.4588
+      "score": -0.7845
     },
     {
-      "headline": "Ghana investigators find ‘black boxes’ of helicopter that crashed and killed two ministers",
-      "sentiment": "Negative",
-      "score": -0.6705
+      "headline": "Capital FM, China Daily Africa Ink Content Partnership to Expand Global Coverage",
+      "sentiment": "Positive",
+      "score": 0.3182
     },
     {
-      "headline": "South African court rules that Zambia can repatriate body of ex-president",
+      "headline": "Wigan to leave Kenya end of Aug after promotion to London post",
+      "sentiment": "Negative",
+      "score": -0.0516
+    },
+    {
+      "headline": "Ruto dangles Sh6m bounty, house in Harambee Stars' Zambia clash",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
+      "headline": "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
-      "headline": "Kenya’s sleeping sickness no longer a public health threat – What this means",
+      "headline": "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
       "sentiment": "Negative",
       "score": -0.6808
     },
     {
-<<<<<<< HEAD
-=======
       "headline": "Parliament cited for rent seeking in the name of oversight role",
       "sentiment": "Neutral",
       "score": 0.0
@@ -150,11 +150,6 @@
       "headline": "Government to disburse HELB loans and Scholarships from August 15",
       "sentiment": "Neutral",
       "score": 0.0
-    },
-    {
-      "headline": "Journalist gives five photos, video to prove who killed Rex Masai",
-      "sentiment": "Negative",
-      "score": -0.6705
     }
   ]
 }
