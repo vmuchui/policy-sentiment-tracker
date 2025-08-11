@@ -1,16 +1,16 @@
 {
   "headlines": [
+    "Trump demands homeless people ‘immediately’ move out of Washington DC",
+    "Mars rock found in Niger sells for millions in New York – now the country wants answers",
+    "HESBON HANSEN: CHAN, McCarthy, and the Theatre of National Unity",
+    "Web System To Curb Corruption Takes The Day at YSK’s 8th National STEM Exhibition",
+    "Expansion of Rironi-Mau Summit Road delayed to october, Ruto confirms",
     "Prof Mutua defends govt 2017-2025;Protest Compensation Plan, Accuses Opposition of Hypocrisy",
     "Gachagua Offers to Testify Before US Senate on Kenya’s Non-NATO Ally Status",
     "Pakistan Misses IMF Social Spending Target as Key Provinces Fall Short",
     "Bangladesh Marks Hasina’s Ouster Amid Hopes and Rising Tensions, legal challenge",
     "India Raises Concerns Over China’s Mega Dam on Brahmaputra Headwaters",
-    "Wetang’ula tells ODM MPs to fall in line after Raila backs Ruto re-election bid",
-    "Over 600 pilgrims hospitalised due to chlorine gas leak in Iraq",
-    "Trump nominates ex-Fox News host Tammy Bruce as deputy UN ambassador",
-    "Man suspected of stealing from tourist in Maasai Mara arrested",
-    "Sifuna faults IEBC decision to hold by-elections on Nov 27",
-    "Ruto's policies end in confusion, resistance then damage control",
+    "How Ruto's policies end in confusion and resistance",
     "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
     "'Gachagua must be questioned over terrorism claims', DP Kindiki, Murkomen say",
     "20 killed in Kisumu road crash",
@@ -23,17 +23,42 @@
   ],
   "keywords": [
     "nato ally status pakistan misses imf social spending target",
+    "trump demands homeless people ‘ immediately ’ move",
     "key provinces fall short bangladesh marks hasina ’",
-    "brahmaputra headwaters wetang ’ ula tells odm mps",
-    "maasai mara arrested sifuna faults iebc decision",
     "eldoret highway harambee stars stun dr congo",
+    "ruto confirms prof mutua defends govt 2017",
     "man harambee stars stun morocco",
+    "washington dc mars rock found",
     "terrorism claims ', dp kindiki",
-    "prof mutua defends govt 2017",
     "legal challenge india raises concerns",
-    "fox news host tammy bruce"
+    "country wants answers hesbon hansen"
   ],
   "sentiments": [
+    {
+      "headline": "Trump demands homeless people ‘immediately’ move out of Washington DC",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Mars rock found in Niger sells for millions in New York – now the country wants answers",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "HESBON HANSEN: CHAN, McCarthy, and the Theatre of National Unity",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Web System To Curb Corruption Takes The Day at YSK’s 8th National STEM Exhibition",
+      "sentiment": "Neutral",
+      "score": 0.0
+    },
+    {
+      "headline": "Expansion of Rironi-Mau Summit Road delayed to october, Ruto confirms",
+      "sentiment": "Negative",
+      "score": -0.2263
+    },
     {
       "headline": "Prof Mutua defends govt 2017-2025;Protest Compensation Plan, Accuses Opposition of Hypocrisy",
       "sentiment": "Negative",
@@ -60,34 +85,9 @@
       "score": 0.0
     },
     {
-      "headline": "Wetang’ula tells ODM MPs to fall in line after Raila backs Ruto re-election bid",
+      "headline": "How Ruto's policies end in confusion and resistance",
       "sentiment": "Negative",
-      "score": -0.0516
-    },
-    {
-      "headline": "Over 600 pilgrims hospitalised due to chlorine gas leak in Iraq",
-      "sentiment": "Negative",
-      "score": -0.34
-    },
-    {
-      "headline": "Trump nominates ex-Fox News host Tammy Bruce as deputy UN ambassador",
-      "sentiment": "Neutral",
-      "score": 0.0
-    },
-    {
-      "headline": "Man suspected of stealing from tourist in Maasai Mara arrested",
-      "sentiment": "Negative",
-      "score": -0.8271
-    },
-    {
-      "headline": "Sifuna faults IEBC decision to hold by-elections on Nov 27",
-      "sentiment": "Negative",
-      "score": -0.4767
-    },
-    {
-      "headline": "Ruto's policies end in confusion, resistance then damage control",
-      "sentiment": "Negative",
-      "score": -0.6597
+      "score": -0.296
     },
     {
       "headline": "CHAN 2024: 10-man Harambee Stars stun Morocco to book quarter-finals",
