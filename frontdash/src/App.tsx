@@ -6,8 +6,8 @@ import {
   ArcElement,
   Tooltip,
   Legend,
-  type ChartEvent,
-  type ActiveElement,
+  // type ChartEvent,
+  // type ActiveElement,
 } from "chart.js";
 import { Pie } from "react-chartjs-2";
 import jsPDF from "jspdf";
@@ -103,10 +103,11 @@ const App: React.FC = () => {
         },
       },
     },
-    onClick: (evt: ChartEvent, activeEls: ActiveElement[]) => {
+    onClick: (evt: unknown) => {
+      // const chartEvt = evt as ChartEvent;
       if (!chartRef.current) return;
       const elements = chartRef.current.getElementsAtEventForMode(
-        evt,
+        evt as MouseEvent,
         "nearest",
         { intersect: true },
         false
@@ -117,7 +118,7 @@ const App: React.FC = () => {
         setSelected((prev) =>
           prev.includes(sentiment)
             ? prev.filter((s) => s !== sentiment)
-            : [...prev, sentiment]
+            : [ sentiment]
         );
       }
     },
