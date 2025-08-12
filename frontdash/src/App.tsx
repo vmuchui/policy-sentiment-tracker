@@ -45,7 +45,8 @@ const App: React.FC = () => {
     if (saved) {
       setSelected(JSON.parse(saved));
     }
-
+    //http://127.0.0.1:8000/api/sentiment/
+    // https://policy-sentiment-tracker.onrender.com/api/sentiment
     fetch("https://policy-sentiment-tracker.onrender.com/api/sentiment")
       .then((res) => res.json())
       .then((json: DashboardData) => setData(json))
