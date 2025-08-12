@@ -1,0 +1,8 @@
+backend/results.json
+.vscode
+utils/__pycache__/
+analyzer/__pycache__/
+scraper/__pycache__/
+frontdash/src/SentimentDashboard.tsx
+frontdash/src/SentimentPie.css
+frontdash/src/SentimentPie.tsx
