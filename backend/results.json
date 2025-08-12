@@ -10,10 +10,7 @@
     "South African court rules that Zambia can repatriate body of ex-president",
     "Nyanchwa Mission Hospital to continue services with cash and other Insurances amid SHA portal probe",
     "Kenya’s sleeping sickness no longer a public health threat – What this means",
-<<<<<<< HEAD
-=======
     "Parliament cited for rent seeking in the name of oversight role",
->>>>>>> 4cb191d452cb2c29a5fbbdc5659ae1ebd782127d
     "20 killed in Kisumu road crash",
     "Six dead in AMREF aircraft crash, three minutes after takeoff",
     "Ruto, Raila pick team to oversee execution of UDA-ODM deal, NADCO report",
@@ -29,15 +26,6 @@
     "beating sleeping sickness ghana investigators find ‘ black boxes ’",
     "burkina faso regional blocs merge peace missions",
     "eldoret highway harambee stars stun dr congo",
-<<<<<<< HEAD
-    "insurances amid sha portal probe kenya ’",
-    "killed two ministers south african court rules",
-    "500 ‘ green army ’ staff",
-    "august 15 journalist gives five photos",
-    "kakamega highway president ruto says initiative",
-    "unite kenyans cs murkomen puts",
-    "wetangula infant among five killed"
-=======
     "killed two ministers south african court rules",
     "insurances amid sha portal probe kenya ’",
     "500 ‘ green army ’ staff",
@@ -45,7 +33,6 @@
     "unite kenyans cs murkomen puts",
     "wetangula infant among five killed",
     "kisumu road crash six dead"
->>>>>>> 4cb191d452cb2c29a5fbbdc5659ae1ebd782127d
   ],
   "sentiments": [
     {
@@ -99,14 +86,11 @@
       "score": -0.6808
     },
     {
-<<<<<<< HEAD
-=======
       "headline": "Parliament cited for rent seeking in the name of oversight role",
       "sentiment": "Neutral",
       "score": 0.0
     },
     {
->>>>>>> 4cb191d452cb2c29a5fbbdc5659ae1ebd782127d
       "headline": "20 killed in Kisumu road crash",
       "sentiment": "Negative",
       "score": -0.802
